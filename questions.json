@@ -1,0 +1,5799 @@
+{
+  "schema_version": 1,
+  "title": "Leben in Deutschland — Baden-Württemberg",
+  "question_count": 310,
+  "created_on": "2026-10-27",
+  "bundesland": "Baden-Württemberg",
+  "start_keyword": "go",
+  "source": {
+    "official_pdf_url": "https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile",
+    "official_pdf_sha256": "edd3ed5e56a35241b6cc61aa0630482dc9e64498db508a7d6892ccee2ec707a9",
+    "official_answer_checker_url": "https://oet.bamf.de/ords/oetut/f?p=534:1:0",
+    "transcription_repository": "https://github.com/YehorAltshuler/bamf-lid-dataset",
+    "transcription_dataset_version": "2026-10-26.101410",
+    "transcription_generated_at": "2026-10-26T10:14:10.443802Z",
+    "transcription_questions_blob_sha": "d3a11a928c4ebdd53b743ca7bf2a9a4b108a12eb",
+    "note": "Independent extraction of official BAMF material; not an official BAMF publication. German questions, answer choices and solutions retained from the source dataset. Two large picture assets use equivalent lower-resolution copies from the attributed secondary repository.",
+    "secondary_image_source": "https://github.com/abdullahbutt/leben-in-deutschland-test",
+    "secondary_image_commit": "ebd34bc936d2e548f8869f5ba97266b581839a0d",
+    "secondary_image_license": "CC BY-NC 4.0 (as stated by the source repository); original image credits retained in question text."
+  },
+  "questions": [
+    {
+      "id": "DE001",
+      "canonical_id": "general-001",
+      "official_number": 1,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil ...",
+      "options": {
+        "A": "hier Religionsfreiheit gilt.",
+        "B": "die Menschen Steuern zahlen.",
+        "C": "die Menschen das Wahlrecht haben.",
+        "D": "hier Meinungsfreiheit gilt."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 2,
+      "bamf_internal_id": "18476",
+      "images": []
+    },
+    {
+      "id": "DE002",
+      "canonical_id": "general-002",
+      "official_number": 2,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am ...",
+      "options": {
+        "A": "Geschichtsunterricht teilnimmt.",
+        "B": "Religionsunterricht teilnimmt.",
+        "C": "Politikunterricht teilnimmt.",
+        "D": "Sprachunterricht teilnimmt."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 2,
+      "bamf_internal_id": "18470",
+      "images": []
+    },
+    {
+      "id": "DE003",
+      "canonical_id": "general-003",
+      "official_number": 3,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+      "options": {
+        "A": "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+        "B": "Der Staat muss sich nicht an die Gesetze halten.",
+        "C": "Nur Deutsche müssen die Gesetze befolgen.",
+        "D": "Die Gerichte machen die Gesetze."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 2,
+      "bamf_internal_id": "18441",
+      "images": []
+    },
+    {
+      "id": "DE004",
+      "canonical_id": "general-004",
+      "official_number": 4,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+      "options": {
+        "A": "Waffenbesitz",
+        "B": "Faustrecht",
+        "C": "Meinungsfreiheit",
+        "D": "Selbstjustiz"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 3,
+      "bamf_internal_id": "18511",
+      "images": []
+    },
+    {
+      "id": "DE005",
+      "canonical_id": "general-005",
+      "official_number": 5,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "options": {
+        "A": "Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.",
+        "B": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+        "C": "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+        "D": "Alle wahlberechtigten Personen müssen wählen."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 3,
+      "bamf_internal_id": "18931",
+      "images": []
+    },
+    {
+      "id": "DE006",
+      "canonical_id": "general-006",
+      "official_number": 6,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie heißt die deutsche Verfassung?",
+      "options": {
+        "A": "Volksgesetz",
+        "B": "Bundesgesetz",
+        "C": "Deutsches Gesetz",
+        "D": "Grundgesetz"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 3,
+      "bamf_internal_id": "18456",
+      "images": []
+    },
+    {
+      "id": "DE007",
+      "canonical_id": "general-007",
+      "official_number": 7,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf ...",
+      "options": {
+        "A": "Glaubens- und Gewissensfreiheit",
+        "B": "Unterhaltung",
+        "C": "Arbeit",
+        "D": "Wohnung"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 4,
+      "bamf_internal_id": "18501",
+      "images": []
+    },
+    {
+      "id": "DE008",
+      "canonical_id": "general-008",
+      "official_number": 8,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was steht nicht im Grundgesetz von Deutschland?",
+      "options": {
+        "A": "Die Würde des Menschen ist unantastbar.",
+        "B": "Alle sollen gleich viel Geld haben.",
+        "C": "Jeder Mensch darf seine Meinung sagen.",
+        "D": "Alle sind vor dem Gesetz gleich."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 4,
+      "bamf_internal_id": "18506",
+      "images": []
+    },
+    {
+      "id": "DE009",
+      "canonical_id": "general-009",
+      "official_number": 9,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf ...",
+      "options": {
+        "A": "Schutz der Familie",
+        "B": "Menschenwürde",
+        "C": "Asyl",
+        "D": "Meinungsfreiheit"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 4,
+      "bamf_internal_id": "18463",
+      "images": []
+    },
+    {
+      "id": "DE010",
+      "canonical_id": "general-010",
+      "official_number": 10,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+      "options": {
+        "A": "die Prügelstrafe",
+        "B": "die Folter",
+        "C": "die Todesstrafe",
+        "D": "die Geldstrafe"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 5,
+      "bamf_internal_id": "18496",
+      "images": []
+    },
+    {
+      "id": "DE011",
+      "canonical_id": "general-011",
+      "official_number": 11,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+      "options": {
+        "A": "Grundgesetz",
+        "B": "Bundesverfassung",
+        "C": "Gesetzbuch",
+        "D": "Verfassungsvertrag"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 5,
+      "bamf_internal_id": "18497",
+      "images": []
+    },
+    {
+      "id": "DE012",
+      "canonical_id": "general-012",
+      "official_number": 12,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+      "options": {
+        "A": "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+        "B": "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+        "C": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+        "D": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 5,
+      "bamf_internal_id": "18447",
+      "images": []
+    },
+    {
+      "id": "DE013",
+      "canonical_id": "general-013",
+      "official_number": 13,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Im Parlament steht der Begriff \"Opposition\" für ...",
+      "options": {
+        "A": "die regierenden Parteien.",
+        "B": "die Fraktion mit den meisten Abgeordneten.",
+        "C": "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+        "D": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 6,
+      "bamf_internal_id": "18724",
+      "images": []
+    },
+    {
+      "id": "DE014",
+      "canonical_id": "general-014",
+      "official_number": 14,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Meinungsfreiheit in Deutschland heißt, dass ich ...",
+      "options": {
+        "A": "Passanten auf der Straße beschimpfen darf.",
+        "B": "meine Meinung im Internet äußern kann.",
+        "C": "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
+        "D": "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 6,
+      "bamf_internal_id": "18486",
+      "images": []
+    },
+    {
+      "id": "DE015",
+      "canonical_id": "general-015",
+      "official_number": 15,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was verbietet das deutsche Grundgesetz?",
+      "options": {
+        "A": "Militärdienst",
+        "B": "Zwangsarbeit",
+        "C": "freie Berufswahl",
+        "D": "Arbeit im Ausland"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 6,
+      "bamf_internal_id": "18482",
+      "images": []
+    },
+    {
+      "id": "DE016",
+      "canonical_id": "general-016",
+      "official_number": 16,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+      "options": {
+        "A": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+        "B": "bei Meinungsäußerungen über die Bundesregierung",
+        "C": "bei Diskussionen über Religionen",
+        "D": "bei Kritik am Staat"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 7,
+      "bamf_internal_id": "18449",
+      "images": []
+    },
+    {
+      "id": "DE017",
+      "canonical_id": "general-017",
+      "official_number": 17,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die deutschen Gesetze verbieten ...",
+      "options": {
+        "A": "Meinungsfreiheit der Einwohnerinnen und Einwohner.",
+        "B": "Petitionen der Bürgerinnen und Bürger.",
+        "C": "Versammlungsfreiheit der Einwohnerinnen und Einwohner.",
+        "D": "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 7,
+      "bamf_internal_id": "18460",
+      "images": []
+    },
+    {
+      "id": "DE018",
+      "canonical_id": "general-018",
+      "official_number": 18,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+      "options": {
+        "A": "die Unantastbarkeit der Menschenwürde",
+        "B": "das Recht auf Leben",
+        "C": "Religionsfreiheit",
+        "D": "Meinungsfreiheit"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 7,
+      "bamf_internal_id": "18489",
+      "images": []
+    },
+    {
+      "id": "DE019",
+      "canonical_id": "general-019",
+      "official_number": 19,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was versteht man unter dem Recht der \"Freizügigkeit\" in Deutschland?",
+      "options": {
+        "A": "Man darf sich seinen Wohnort selbst aussuchen.",
+        "B": "Man kann seinen Beruf wechseln.",
+        "C": "Man darf sich für eine andere Religion entscheiden.",
+        "D": "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 8,
+      "bamf_internal_id": "18477",
+      "images": []
+    },
+    {
+      "id": "DE020",
+      "canonical_id": "general-020",
+      "official_number": 20,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann ...",
+      "options": {
+        "A": "tolerant.",
+        "B": "rechtsstaatlich orientiert.",
+        "C": "gesetzestreu.",
+        "D": "verfassungswidrig."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 8,
+      "bamf_internal_id": "18468",
+      "images": []
+    },
+    {
+      "id": "DE021",
+      "canonical_id": "general-021",
+      "official_number": 21,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 9,
+      "bamf_internal_id": "18637",
+      "images": [
+        {
+          "path": "images/general-021.png",
+          "sha256": "684fb8036a6f0222a70c12413205713084ccdd628be658b667f7b1bea3dc4593",
+          "width": 375,
+          "height": 488,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-021-2.png",
+          "sha256": "23e80abd703404a9dfe17edb88ddc51eb0380b54050de8d0513787ac238c6009",
+          "width": 375,
+          "height": 456,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-021-3.png",
+          "sha256": "23927fc29298f038bd603f7889be1e7cf6115ba77c36a0deb3e5a92312a188f0",
+          "width": 416,
+          "height": 416,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-021-4.png",
+          "sha256": "3a5f338a9fb33257b2a1851bb6506e82dafe94860f12a5111809dcca6ee4df74",
+          "width": 481,
+          "height": 489,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "DE022",
+      "canonical_id": "general-022",
+      "official_number": 22,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was für eine Staatsform hat Deutschland?",
+      "options": {
+        "A": "Monarchie",
+        "B": "Diktatur",
+        "C": "Republik",
+        "D": "Fürstentum"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 9,
+      "bamf_internal_id": "18587",
+      "images": []
+    },
+    {
+      "id": "DE023",
+      "canonical_id": "general-023",
+      "official_number": 23,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland sind die meisten Erwerbstätigen ...",
+      "options": {
+        "A": "in kleinen Familienunternehmen beschäftigt.",
+        "B": "ehrenamtlich für ein Bundesland tätig.",
+        "C": "selbstständig mit einer eigenen Firma tätig.",
+        "D": "bei einer Firma oder Behörde beschäftigt."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 10,
+      "bamf_internal_id": "17280",
+      "images": []
+    },
+    {
+      "id": "DE024",
+      "canonical_id": "general-024",
+      "official_number": 24,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 10,
+      "bamf_internal_id": "18583",
+      "images": []
+    },
+    {
+      "id": "DE025",
+      "canonical_id": "general-025",
+      "official_number": 25,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Elsass-Lothringen",
+        "B": "Nordrhein-Westfalen",
+        "C": "Mecklenburg-Vorpommern",
+        "D": "Sachsen-Anhalt"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 10,
+      "bamf_internal_id": "18577",
+      "images": []
+    },
+    {
+      "id": "DE026",
+      "canonical_id": "general-026",
+      "official_number": 26,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Deutschland ist ...",
+      "options": {
+        "A": "eine kommunistische Republik.",
+        "B": "ein demokratischer und sozialer Bundesstaat.",
+        "C": "eine kapitalistische und soziale Monarchie.",
+        "D": "ein sozialer und sozialistischer Bundesstaat."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 11,
+      "bamf_internal_id": "18642",
+      "images": []
+    },
+    {
+      "id": "DE027",
+      "canonical_id": "general-027",
+      "official_number": 27,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Deutschland ist ...",
+      "options": {
+        "A": "ein sozialistischer Staat.",
+        "B": "ein Bundesstaat.",
+        "C": "eine Diktatur.",
+        "D": "eine Monarchie."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 11,
+      "bamf_internal_id": "18570",
+      "images": []
+    },
+    {
+      "id": "DE028",
+      "canonical_id": "general-028",
+      "official_number": 28,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+      "options": {
+        "A": "das Militär",
+        "B": "die Wirtschaft",
+        "C": "das wahlberechtigte Volk",
+        "D": "die Verwaltung"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 11,
+      "bamf_internal_id": "18619",
+      "images": []
+    },
+    {
+      "id": "DE029",
+      "canonical_id": "general-029",
+      "official_number": 29,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Löwe",
+        "B": "Adler",
+        "C": "Bär",
+        "D": "Pferd"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 12,
+      "bamf_internal_id": "18674",
+      "images": []
+    },
+    {
+      "id": "DE030",
+      "canonical_id": "general-030",
+      "official_number": 30,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist kein Merkmal unserer Demokratie?",
+      "options": {
+        "A": "regelmäßige Wahlen",
+        "B": "Pressezensur",
+        "C": "Meinungsfreiheit",
+        "D": "verschiedene Parteien"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 12,
+      "bamf_internal_id": "18682",
+      "images": []
+    },
+    {
+      "id": "DE031",
+      "canonical_id": "general-031",
+      "official_number": 31,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+      "options": {
+        "A": "Einheit.",
+        "B": "Koalition.",
+        "C": "Ministerium.",
+        "D": "Fraktion."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 12,
+      "bamf_internal_id": "18550",
+      "images": []
+    },
+    {
+      "id": "DE032",
+      "canonical_id": "general-032",
+      "official_number": 32,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist keine staatliche Gewalt in Deutschland?",
+      "options": {
+        "A": "Gesetzgebung",
+        "B": "Regierung",
+        "C": "Presse",
+        "D": "Rechtsprechung"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 13,
+      "bamf_internal_id": "18547",
+      "images": []
+    },
+    {
+      "id": "DE033",
+      "canonical_id": "general-033",
+      "official_number": 33,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Aussage ist richtig? In Deutschland ...",
+      "options": {
+        "A": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+        "B": "bilden die Religionsgemeinschaften den Staat.",
+        "C": "ist der Staat abhängig von den Religionsgemeinschaften.",
+        "D": "bilden Staat und Religionsgemeinschaften eine Einheit."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 13,
+      "bamf_internal_id": "18541",
+      "images": []
+    },
+    {
+      "id": "DE034",
+      "canonical_id": "general-034",
+      "official_number": 34,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist Deutschland nicht?",
+      "options": {
+        "A": "eine Demokratie",
+        "B": "ein Rechtsstaat",
+        "C": "eine Monarchie",
+        "D": "ein Sozialstaat"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 13,
+      "bamf_internal_id": "18611",
+      "images": []
+    },
+    {
+      "id": "DE035",
+      "canonical_id": "general-035",
+      "official_number": 35,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+      "options": {
+        "A": "Kirchensteuer",
+        "B": "Sozialabgaben",
+        "C": "Spendengeldern",
+        "D": "Vereinsbeiträgen"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 14,
+      "bamf_internal_id": "18658",
+      "images": []
+    },
+    {
+      "id": "DE036",
+      "canonical_id": "general-036",
+      "official_number": 36,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+      "options": {
+        "A": "die Krankenversicherung",
+        "B": "die Autoversicherung",
+        "C": "die Gebäudeversicherung",
+        "D": "die Haftpflichtversicherung"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 14,
+      "bamf_internal_id": "18693",
+      "images": []
+    },
+    {
+      "id": "DE037",
+      "canonical_id": "general-037",
+      "official_number": 37,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
+      "options": {
+        "A": "Erste Ministerin/Erster Minister",
+        "B": "Premierministerin/Premierminister",
+        "C": "Senatorin/Senator",
+        "D": "Ministerpräsidentin/Ministerpräsident"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 14,
+      "bamf_internal_id": "18576",
+      "images": []
+    },
+    {
+      "id": "DE038",
+      "canonical_id": "general-038",
+      "official_number": 38,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
+      "options": {
+        "A": "Staatenverbund.",
+        "B": "Bundesstaat.",
+        "C": "Staatenbund.",
+        "D": "Zentralstaat."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 15,
+      "bamf_internal_id": "18670",
+      "images": []
+    },
+    {
+      "id": "DE039",
+      "canonical_id": "general-039",
+      "official_number": 39,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was hat jedes deutsche Bundesland?",
+      "options": {
+        "A": "eine eigene Außenministerin/einen eigenen Außenminister",
+        "B": "eine eigene Währung",
+        "C": "eine eigene Armee",
+        "D": "eine eigene Regierung"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 15,
+      "bamf_internal_id": "18692",
+      "images": []
+    },
+    {
+      "id": "DE040",
+      "canonical_id": "general-040",
+      "official_number": 40,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+      "options": {
+        "A": "Völker, hört die Signale ...",
+        "B": "Einigkeit und Recht und Freiheit ...",
+        "C": "Freude schöner Götterfunken ...",
+        "D": "Deutschland einig Vaterland ..."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 15,
+      "bamf_internal_id": "18718",
+      "images": []
+    },
+    {
+      "id": "DE041",
+      "canonical_id": "general-041",
+      "official_number": 41,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+      "options": {
+        "A": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+        "B": "damit Bestechung in der Politik begrenzt wird",
+        "C": "um politische Demonstrationen zu verhindern",
+        "D": "um wirtschaftlichen Wettbewerb anzuregen"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 16,
+      "bamf_internal_id": "18709",
+      "images": []
+    },
+    {
+      "id": "DE042",
+      "canonical_id": "general-042",
+      "official_number": 42,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer beschließt in Deutschland ein neues Gesetz?",
+      "options": {
+        "A": "die Regierung",
+        "B": "das Parlament",
+        "C": "die Gerichte",
+        "D": "die Polizei"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 16,
+      "bamf_internal_id": "18566",
+      "images": []
+    },
+    {
+      "id": "DE043",
+      "canonical_id": "general-043",
+      "official_number": 43,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann kann in Deutschland eine Partei verboten werden?",
+      "options": {
+        "A": "wenn ihr Wahlkampf zu teuer ist",
+        "B": "wenn sie gegen die Verfassung kämpft",
+        "C": "wenn sie Kritik am Staatsoberhaupt äußert",
+        "D": "wenn ihr Programm eine neue Richtung vorschlägt"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 16,
+      "bamf_internal_id": "18702",
+      "images": []
+    },
+    {
+      "id": "DE044",
+      "canonical_id": "general-044",
+      "official_number": 44,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
+      "options": {
+        "A": "Abgeordnete des EU-Parlaments",
+        "B": "Die Bundespräsidentin/den Bundespräsidenten",
+        "C": "Landtagsabgeordnete",
+        "D": "Bundestagsabgeordnete"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 17,
+      "bamf_internal_id": "18514",
+      "images": []
+    },
+    {
+      "id": "DE045",
+      "canonical_id": "general-045",
+      "official_number": 45,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+      "options": {
+        "A": "Sozialversicherung",
+        "B": "Unfallversicherung",
+        "C": "Hausratsversicherung",
+        "D": "Haftpflicht- und Feuerversicherung"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 17,
+      "bamf_internal_id": "18685",
+      "images": []
+    },
+    {
+      "id": "DE046",
+      "canonical_id": "general-046",
+      "official_number": 46,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+      "options": {
+        "A": "Er baut Straßen und Schulen.",
+        "B": "Er verkauft Lebensmittel und Kleidung.",
+        "C": "Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.",
+        "D": "Er produziert Autos und Busse."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 17,
+      "bamf_internal_id": "18605",
+      "images": []
+    },
+    {
+      "id": "DE047",
+      "canonical_id": "general-047",
+      "official_number": 47,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+      "options": {
+        "A": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+        "B": "Er zahlt Kindergeld.",
+        "C": "Er unterstützt Museen.",
+        "D": "Er fördert Sportlerinnen und Sportler."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 18,
+      "bamf_internal_id": "18525",
+      "images": []
+    },
+    {
+      "id": "DE048",
+      "canonical_id": "general-048",
+      "official_number": 48,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+      "options": {
+        "A": "der Bundesrat",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bürgerversammlung",
+        "D": "die Regierung"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 18,
+      "bamf_internal_id": "18523",
+      "images": []
+    },
+    {
+      "id": "DE049",
+      "canonical_id": "general-049",
+      "official_number": 49,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer bestimmt in Deutschland die Schulpolitik?",
+      "options": {
+        "A": "die Lehrer und Lehrerinnen",
+        "B": "die Bundesländer",
+        "C": "das Familienministerium",
+        "D": "die Universitäten"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 18,
+      "bamf_internal_id": "18614",
+      "images": []
+    },
+    {
+      "id": "DE050",
+      "canonical_id": "general-050",
+      "official_number": 50,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Wirtschaftsform in Deutschland nennt man ...",
+      "options": {
+        "A": "freie Zentralwirtschaft.",
+        "B": "soziale Marktwirtschaft.",
+        "C": "gelenkte Zentralwirtschaft.",
+        "D": "Planwirtschaft."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 19,
+      "bamf_internal_id": "18662",
+      "images": []
+    },
+    {
+      "id": "DE051",
+      "canonical_id": "general-051",
+      "official_number": 51,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass ...",
+      "options": {
+        "A": "Menschen sich kritisch über die Regierung äußern können.",
+        "B": "Bürger friedlich demonstrieren gehen dürfen.",
+        "C": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+        "D": "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 19,
+      "bamf_internal_id": "18679",
+      "images": []
+    },
+    {
+      "id": "DE052",
+      "canonical_id": "general-052",
+      "official_number": 52,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom ...",
+      "options": {
+        "A": "Volke aus.",
+        "B": "Bundestag aus.",
+        "C": "preußischen König aus.",
+        "D": "Bundesverfassungsgericht aus."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 19,
+      "bamf_internal_id": "18665",
+      "images": []
+    },
+    {
+      "id": "DE053",
+      "canonical_id": "general-053",
+      "official_number": 53,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
+      "options": {
+        "A": "Der Staat hat Recht.",
+        "B": "Es gibt nur rechte Parteien.",
+        "C": "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
+        "D": "Der Staat muss die Gesetze einhalten."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 20,
+      "bamf_internal_id": "18700",
+      "images": []
+    },
+    {
+      "id": "DE054",
+      "canonical_id": "general-054",
+      "official_number": 54,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist keine staatliche Gewalt in Deutschland?",
+      "options": {
+        "A": "Legislative",
+        "B": "Judikative",
+        "C": "Exekutive",
+        "D": "Direktive"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 20,
+      "bamf_internal_id": "18716",
+      "images": []
+    },
+    {
+      "id": "DE055",
+      "canonical_id": "general-055",
+      "official_number": 55,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was zeigt dieses Bild? © Deutscher Bundestag/Achim Melde",
+      "options": {
+        "A": "den Bundestagssitz in Berlin",
+        "B": "das Bundesverfassungsgericht in Karlsruhe",
+        "C": "das Bundesratsgebäude in Berlin",
+        "D": "das Bundeskanzleramt in Berlin"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 21,
+      "bamf_internal_id": "18705",
+      "images": [
+        {
+          "path": "images/general-055.jpeg",
+          "sha256": "ef0a43eaf1290dbd46005932c3c3688beb00d27f7fbcecb3f8b4e7b6c188b0c8",
+          "width": 1200,
+          "height": 857,
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "DE056",
+      "canonical_id": "general-056",
+      "official_number": 56,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+      "options": {
+        "A": "Pfarramt",
+        "B": "Ordnungsamt",
+        "C": "Finanzamt",
+        "D": "Auswärtiges Amt"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 21,
+      "bamf_internal_id": "18650",
+      "images": []
+    },
+    {
+      "id": "DE057",
+      "canonical_id": "general-057",
+      "official_number": 57,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+      "options": {
+        "A": "die/der älteste Abgeordnete im Parlament",
+        "B": "die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes",
+        "C": "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler",
+        "D": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 22,
+      "bamf_internal_id": "18556",
+      "images": []
+    },
+    {
+      "id": "DE058",
+      "canonical_id": "general-058",
+      "official_number": 58,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+      "options": {
+        "A": "die Präsidentin/der Präsident des Bundesverfassungsgerichtes",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bundesratspräsidentin/der Bundesratspräsident",
+        "D": "die Bundestagspräsidentin/der Bundestagspräsident"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 22,
+      "bamf_internal_id": "18562",
+      "images": []
+    },
+    {
+      "id": "DE059",
+      "canonical_id": "general-059",
+      "official_number": 59,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+      "options": {
+        "A": "vor etwa 300 Jahren",
+        "B": "vor etwa 700 Jahren",
+        "C": "vor etwa 1150 Jahren",
+        "D": "vor etwa 1700 Jahren"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 22,
+      "bamf_internal_id": "18592",
+      "images": []
+    },
+    {
+      "id": "DE060",
+      "canonical_id": "general-060",
+      "official_number": 60,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland gehören der Bundestag und der Bundesrat zur ...",
+      "options": {
+        "A": "Exekutive.",
+        "B": "Legislative.",
+        "C": "Direktive.",
+        "D": "Judikative."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 23,
+      "bamf_internal_id": "18602",
+      "images": []
+    },
+    {
+      "id": "DE061",
+      "canonical_id": "general-061",
+      "official_number": 61,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet \"Volkssouveränität\"?",
+      "options": {
+        "A": "Die Königin/der König herrscht über das Volk.",
+        "B": "Das Bundesverfassungsgericht steht über der Verfassung.",
+        "C": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+        "D": "Die Staatsgewalt geht vom Volke aus."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 23,
+      "bamf_internal_id": "18596",
+      "images": []
+    },
+    {
+      "id": "DE062",
+      "canonical_id": "general-062",
+      "official_number": 62,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das ...",
+      "options": {
+        "A": "Kommunalwahl",
+        "B": "Landtagswahl",
+        "C": "Europawahl",
+        "D": "Bundestagswahl"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 23,
+      "bamf_internal_id": "18654",
+      "images": []
+    },
+    {
+      "id": "DE063",
+      "canonical_id": "general-063",
+      "official_number": 63,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was gehört in Deutschland nicht zur Exekutive?",
+      "options": {
+        "A": "die Polizei",
+        "B": "die Gerichte",
+        "C": "das Finanzamt",
+        "D": "die Ministerien"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 24,
+      "bamf_internal_id": "18598",
+      "images": []
+    },
+    {
+      "id": "DE064",
+      "canonical_id": "general-064",
+      "official_number": 64,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Bundesrepublik Deutschland ist heute gegliedert in ...",
+      "options": {
+        "A": "vier Besatzungszonen.",
+        "B": "einen Oststaat und einen Weststaat.",
+        "C": "16 Kantone.",
+        "D": "Bund, Länder und Kommunen."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 24,
+      "bamf_internal_id": "18648",
+      "images": []
+    },
+    {
+      "id": "DE065",
+      "canonical_id": "general-065",
+      "official_number": 65,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, ...",
+      "options": {
+        "A": "Gesetze zu entwerfen.",
+        "B": "die Bundesregierung zu kontrollieren.",
+        "C": "die Bundeskanzlerin/den Bundeskanzler zu wählen.",
+        "D": "das Bundeskabinett zu bilden."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 24,
+      "bamf_internal_id": "18560",
+      "images": []
+    },
+    {
+      "id": "DE066",
+      "canonical_id": "general-066",
+      "official_number": 66,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+      "options": {
+        "A": "Berlin und München",
+        "B": "Hamburg und Essen",
+        "C": "Nürnberg und Stuttgart",
+        "D": "Worms und Speyer"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 25,
+      "bamf_internal_id": "18633",
+      "images": []
+    },
+    {
+      "id": "DE067",
+      "canonical_id": "general-067",
+      "official_number": 67,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+      "options": {
+        "A": "Verteidigungspolitik",
+        "B": "Außenpolitik",
+        "C": "Wirtschaftspolitik",
+        "D": "Schulpolitik"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 25,
+      "bamf_internal_id": "18628",
+      "images": []
+    },
+    {
+      "id": "DE068",
+      "canonical_id": "general-068",
+      "official_number": 68,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+      "options": {
+        "A": "weil es in Deutschland nur staatliche Schulen gibt",
+        "B": "weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen",
+        "C": "weil es in den Bundesländern verschiedene Schulen gibt",
+        "D": "weil es nach dem Grundgesetz seine Aufgabe ist"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 25,
+      "bamf_internal_id": "18520",
+      "images": []
+    },
+    {
+      "id": "DE069",
+      "canonical_id": "general-069",
+      "official_number": 69,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+      "options": {
+        "A": "Stadträte",
+        "B": "Landräte",
+        "C": "Gemeinden",
+        "D": "Bezirksämter"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 26,
+      "bamf_internal_id": "18623",
+      "images": []
+    },
+    {
+      "id": "DE070",
+      "canonical_id": "general-070",
+      "official_number": 70,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten? © Bundesregierung/Engelbert Reineke",
+      "options": {
+        "A": "Sie/Er führt die Regierungsgeschäfte.",
+        "B": "Sie/Er kontrolliert die Regierungspartei.",
+        "C": "Sie/Er wählt die Ministerinnen/Minister aus.",
+        "D": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 27,
+      "bamf_internal_id": "18632",
+      "images": [
+        {
+          "path": "images/general-070.png",
+          "width": 1200,
+          "height": 912,
+          "mime_type": "image/png",
+          "official_extraction_sha256": "8a2affb6f7de243fc6750d9f153f8351080f9f112f2f2e127189f426541ab44b",
+          "secondary_source_path": "images/70.png",
+          "source_repository": "https://github.com/abdullahbutt/leben-in-deutschland-test",
+          "note": "Equivalent study image from the same question; dimensions and hash below describe the cached copy.",
+          "sha256": "0c1cd403d31b03ad96080cc155bf9ddc1f9a0854ed9eeec8c1bc67cf75573d8d"
+        }
+      ]
+    },
+    {
+      "id": "DE071",
+      "canonical_id": "general-071",
+      "official_number": 71,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er ...",
+      "options": {
+        "A": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+        "B": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+        "C": "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
+        "D": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 28,
+      "bamf_internal_id": "18856",
+      "images": []
+    },
+    {
+      "id": "DE072",
+      "canonical_id": "general-072",
+      "official_number": 72,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+      "options": {
+        "A": "Gerhard Schröder",
+        "B": "Angela Merkel",
+        "C": "Ursula von der Leyen",
+        "D": "Friedrich Merz"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 28,
+      "bamf_internal_id": "18840",
+      "images": []
+    },
+    {
+      "id": "DE073",
+      "canonical_id": "general-073",
+      "official_number": 73,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit ...",
+      "options": {
+        "A": "CDU/CSU und AfD.",
+        "B": "Die Linke und Bündnis 90/Die Grünen.",
+        "C": "Bündnis 90/Die Grünen und SPD.",
+        "D": "Die Linke und CDU/CSU."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 28,
+      "bamf_internal_id": "18805",
+      "images": []
+    },
+    {
+      "id": "DE074",
+      "canonical_id": "general-074",
+      "official_number": 74,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie heißt das Parlament für ganz Deutschland?",
+      "options": {
+        "A": "Bundesversammlung",
+        "B": "Volkskammer",
+        "C": "Bundestag",
+        "D": "Bundesgerichtshof"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 29,
+      "bamf_internal_id": "18831",
+      "images": []
+    },
+    {
+      "id": "DE075",
+      "canonical_id": "general-075",
+      "official_number": 75,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+      "options": {
+        "A": "Frank-Walter Steinmeier",
+        "B": "Bärbel Bas",
+        "C": "Bodo Ramelow",
+        "D": "Joachim Gauck"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 29,
+      "bamf_internal_id": "18725",
+      "images": []
+    },
+    {
+      "id": "DE076",
+      "canonical_id": "general-076",
+      "official_number": 76,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet die Abkürzung CDU in Deutschland?",
+      "options": {
+        "A": "Christliche Deutsche Union",
+        "B": "Club Deutscher Unternehmer",
+        "C": "Christlicher Deutscher Umweltschutz",
+        "D": "Christlich Demokratische Union"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 29,
+      "bamf_internal_id": "18868",
+      "images": []
+    },
+    {
+      "id": "DE077",
+      "canonical_id": "general-077",
+      "official_number": 77,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist die Bundeswehr?",
+      "options": {
+        "A": "die deutsche Polizei",
+        "B": "ein deutscher Hafen",
+        "C": "eine deutsche Bürgerinitiative",
+        "D": "die deutsche Armee"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 30,
+      "bamf_internal_id": "18876",
+      "images": []
+    },
+    {
+      "id": "DE078",
+      "canonical_id": "general-078",
+      "official_number": 78,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet die Abkürzung SPD?",
+      "options": {
+        "A": "Sozialistische Partei Deutschlands",
+        "B": "Sozialpolitische Partei Deutschlands",
+        "C": "Sozialdemokratische Partei Deutschlands",
+        "D": "Sozialgerechte Partei Deutschlands"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 30,
+      "bamf_internal_id": "18863",
+      "images": []
+    },
+    {
+      "id": "DE079",
+      "canonical_id": "general-079",
+      "official_number": 79,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet die Abkürzung FDP in Deutschland?",
+      "options": {
+        "A": "Friedliche Demonstrative Partei",
+        "B": "Freie Deutschland Partei",
+        "C": "Führende Demokratische Partei",
+        "D": "Freie Demokratische Partei"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 30,
+      "bamf_internal_id": "18804",
+      "images": []
+    },
+    {
+      "id": "DE080",
+      "canonical_id": "general-080",
+      "official_number": 80,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+      "options": {
+        "A": "Oberlandesgericht",
+        "B": "Amtsgericht",
+        "C": "Bundesverfassungsgericht",
+        "D": "Verwaltungsgericht"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 31,
+      "bamf_internal_id": "18847",
+      "images": []
+    },
+    {
+      "id": "DE081",
+      "canonical_id": "general-081",
+      "official_number": 81,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+      "options": {
+        "A": "der Bundesrat",
+        "B": "die Bundesversammlung",
+        "C": "das Volk",
+        "D": "der Bundestag"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 31,
+      "bamf_internal_id": "18828",
+      "images": []
+    },
+    {
+      "id": "DE082",
+      "canonical_id": "general-082",
+      "official_number": 82,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer leitet das deutsche Bundeskabinett?",
+      "options": {
+        "A": "die Bundestagspräsidentin/der Bundestagspräsident",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bundesratspräsidentin/der Bundesratspräsident",
+        "D": "die Bundeskanzlerin/der Bundeskanzler"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 31,
+      "bamf_internal_id": "18884",
+      "images": []
+    },
+    {
+      "id": "DE083",
+      "canonical_id": "general-083",
+      "official_number": 83,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+      "options": {
+        "A": "das Volk",
+        "B": "die Bundesversammlung",
+        "C": "der Bundestag",
+        "D": "die Bundesregierung"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 32,
+      "bamf_internal_id": "18823",
+      "images": []
+    },
+    {
+      "id": "DE084",
+      "canonical_id": "general-084",
+      "official_number": 84,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er ...",
+      "options": {
+        "A": "regiert das Land.",
+        "B": "entwirft die Gesetze.",
+        "C": "repräsentiert das Land.",
+        "D": "überwacht die Einhaltung der Gesetze."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 32,
+      "bamf_internal_id": "18811",
+      "images": []
+    },
+    {
+      "id": "DE085",
+      "canonical_id": "general-085",
+      "official_number": 85,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer bildet den deutschen Bundesrat?",
+      "options": {
+        "A": "die Abgeordneten des Bundestages",
+        "B": "die Ministerinnen und Minister der Bundesregierung",
+        "C": "die Regierungsvertreter der Bundesländer",
+        "D": "die Parteimitglieder"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 32,
+      "bamf_internal_id": "18879",
+      "images": []
+    },
+    {
+      "id": "DE086",
+      "canonical_id": "general-086",
+      "official_number": 86,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+      "options": {
+        "A": "die Bundesversammlung",
+        "B": "der Bundesrat",
+        "C": "das Bundesparlament",
+        "D": "das Bundesverfassungsgericht"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 33,
+      "bamf_internal_id": "18817",
+      "images": []
+    },
+    {
+      "id": "DE087",
+      "canonical_id": "general-087",
+      "official_number": 87,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "die Bundeskanzlerin/der Bundeskanzler",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bundesratspräsidentin/der Bundesratspräsident",
+        "D": "die Bundestagspräsidentin/der Bundestagspräsident"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 33,
+      "bamf_internal_id": "18834",
+      "images": []
+    },
+    {
+      "id": "DE088",
+      "canonical_id": "general-088",
+      "official_number": 88,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die parlamentarische Opposition im Deutschen Bundestag ...",
+      "options": {
+        "A": "kontrolliert die Regierung.",
+        "B": "entscheidet, wer Bundesministerin/Bundesminister wird.",
+        "C": "bestimmt, wer im Bundesrat sitzt.",
+        "D": "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 33,
+      "bamf_internal_id": "18849",
+      "images": []
+    },
+    {
+      "id": "DE089",
+      "canonical_id": "general-089",
+      "official_number": 89,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+      "options": {
+        "A": "Verband",
+        "B": "Ältestenrat",
+        "C": "Fraktion",
+        "D": "Opposition"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 34,
+      "bamf_internal_id": "18859",
+      "images": []
+    },
+    {
+      "id": "DE090",
+      "canonical_id": "general-090",
+      "official_number": 90,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch ...",
+      "options": {
+        "A": "den Bundesrat.",
+        "B": "die Bundesversammlung.",
+        "C": "den Bundestag.",
+        "D": "die Bundesregierung."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 34,
+      "bamf_internal_id": "18813",
+      "images": []
+    },
+    {
+      "id": "DE091",
+      "canonical_id": "general-091",
+      "official_number": 91,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird ...",
+      "options": {
+        "A": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+        "B": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+        "C": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+        "D": "leichter, wenn es sich um ein reiches Bundesland handelt."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 34,
+      "bamf_internal_id": "18843",
+      "images": []
+    },
+    {
+      "id": "DE092",
+      "canonical_id": "general-092",
+      "official_number": 92,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet die Abkürzung CSU in Deutschland?",
+      "options": {
+        "A": "Christlich Sichere Union",
+        "B": "Christlich Süddeutsche Union",
+        "C": "Christlich Sozialer Unternehmerverband",
+        "D": "Christlich Soziale Union"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 35,
+      "bamf_internal_id": "18872",
+      "images": []
+    },
+    {
+      "id": "DE093",
+      "canonical_id": "general-093",
+      "official_number": 93,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto ...",
+      "options": {
+        "A": "weniger Erststimmen kann sie haben.",
+        "B": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+        "C": "größer ist das Risiko, eine Koalition bilden zu müssen.",
+        "D": "mehr Sitze erhält die Partei im Parlament."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 35,
+      "bamf_internal_id": "18996",
+      "images": []
+    },
+    {
+      "id": "DE094",
+      "canonical_id": "general-094",
+      "official_number": 94,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "21",
+        "D": "23"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 35,
+      "bamf_internal_id": "18926",
+      "images": []
+    },
+    {
+      "id": "DE095",
+      "canonical_id": "general-095",
+      "official_number": 95,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was gilt für die meisten Kinder in Deutschland?",
+      "options": {
+        "A": "Wahlpflicht",
+        "B": "Schulpflicht",
+        "C": "Schweigepflicht",
+        "D": "Religionspflicht"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 36,
+      "bamf_internal_id": "18886",
+      "images": []
+    },
+    {
+      "id": "DE096",
+      "canonical_id": "general-096",
+      "official_number": 96,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+      "options": {
+        "A": "Kürzung sozialer Leistungen",
+        "B": "bis zu 100 Sozialstunden",
+        "C": "gar nicht, Holocaustleugnung ist erlaubt",
+        "D": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 36,
+      "bamf_internal_id": "18908",
+      "images": []
+    },
+    {
+      "id": "DE097",
+      "canonical_id": "general-097",
+      "official_number": 97,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+      "options": {
+        "A": "Sozialversicherung",
+        "B": "Sozialhilfe",
+        "C": "Kindergeld",
+        "D": "Wohngeld"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 36,
+      "bamf_internal_id": "18909",
+      "images": []
+    },
+    {
+      "id": "DE098",
+      "canonical_id": "general-098",
+      "official_number": 98,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ...",
+      "options": {
+        "A": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+        "B": "kann die Regierung ihre Mehrheit verlieren.",
+        "C": "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.",
+        "D": "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 37,
+      "bamf_internal_id": "18530",
+      "images": []
+    },
+    {
+      "id": "DE099",
+      "canonical_id": "general-099",
+      "official_number": 99,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+      "options": {
+        "A": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+        "B": "nur Arbeitnehmerinnen/Arbeitnehmer",
+        "C": "alle Staatsangehörigen",
+        "D": "nur Arbeitgeberinnen/Arbeitgeber"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 37,
+      "bamf_internal_id": "18913",
+      "images": []
+    },
+    {
+      "id": "DE100",
+      "canonical_id": "general-100",
+      "official_number": 100,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+      "options": {
+        "A": "die Lebensversicherung",
+        "B": "die gesetzliche Rentenversicherung",
+        "C": "die Arbeitslosenversicherung",
+        "D": "die Pflegeversicherung"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 37,
+      "bamf_internal_id": "18538",
+      "images": []
+    },
+    {
+      "id": "DE101",
+      "canonical_id": "general-101",
+      "official_number": 101,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Gewerkschaften sind Interessenverbände der ...",
+      "options": {
+        "A": "Jugendlichen.",
+        "B": "Arbeitnehmerinnen und Arbeitnehmer.",
+        "C": "Rentnerinnen und Rentner.",
+        "D": "Arbeitgeberinnen und Arbeitgeber."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 38,
+      "bamf_internal_id": "18918",
+      "images": []
+    },
+    {
+      "id": "DE102",
+      "canonical_id": "general-102",
+      "official_number": 102,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem ...",
+      "options": {
+        "A": "Bundesverdienstkreuz",
+        "B": "Bundesadler",
+        "C": "Vaterländischen Verdienstorden",
+        "D": "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 38,
+      "bamf_internal_id": "18800",
+      "images": []
+    },
+    {
+      "id": "DE103",
+      "canonical_id": "general-103",
+      "official_number": 103,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit ...",
+      "options": {
+        "A": "der Bundestagsfraktionen von CDU und CSU",
+        "B": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+        "C": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+        "D": "der Bundestagsfraktionen von CDU und SPD"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 38,
+      "bamf_internal_id": "18534",
+      "images": []
+    },
+    {
+      "id": "DE104",
+      "canonical_id": "general-104",
+      "official_number": 104,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+      "options": {
+        "A": "Die Frau ist lange krank und arbeitsunfähig.",
+        "B": "Die Frau kam oft zu spät zur Arbeit.",
+        "C": "Die Frau erledigt private Sachen während der Arbeitszeit.",
+        "D": "Die Frau bekommt ein Kind und ihr Chef weiß das."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 39,
+      "bamf_internal_id": "18924",
+      "images": []
+    },
+    {
+      "id": "DE105",
+      "canonical_id": "general-105",
+      "official_number": 105,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+      "options": {
+        "A": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+        "B": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+        "C": "Sie geben Zwischenergebnisse an die Medien weiter.",
+        "D": "Sie zählen die Stimmen nach dem Ende der Wahl."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 39,
+      "bamf_internal_id": "18904",
+      "images": []
+    },
+    {
+      "id": "DE106",
+      "canonical_id": "general-106",
+      "official_number": 106,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+      "options": {
+        "A": "Sie helfen Kindern und alten Menschen beim Wählen.",
+        "B": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+        "C": "Sie geben Zwischenergebnisse an Journalisten weiter.",
+        "D": "Sie zählen die Stimmen nach dem Ende der Wahl."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 39,
+      "bamf_internal_id": "18900",
+      "images": []
+    },
+    {
+      "id": "DE107",
+      "canonical_id": "general-107",
+      "official_number": 107,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "options": {
+        "A": "2 Jahre",
+        "B": "4 Jahre",
+        "C": "6 Jahre",
+        "D": "8 Jahre"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 40,
+      "bamf_internal_id": "19002",
+      "images": []
+    },
+    {
+      "id": "DE108",
+      "canonical_id": "general-108",
+      "official_number": 108,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der ...",
+      "options": {
+        "A": "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+        "B": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+        "C": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+        "D": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 40,
+      "bamf_internal_id": "18954",
+      "images": []
+    },
+    {
+      "id": "DE109",
+      "canonical_id": "general-109",
+      "official_number": 109,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+      "options": {
+        "A": "alle drei Jahre",
+        "B": "alle vier Jahre",
+        "C": "alle fünf Jahre",
+        "D": "alle sechs Jahre"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 40,
+      "bamf_internal_id": "19010",
+      "images": []
+    },
+    {
+      "id": "DE110",
+      "canonical_id": "general-110",
+      "official_number": 110,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "options": {
+        "A": "2 Jahre",
+        "B": "3 Jahre",
+        "C": "4 Jahre",
+        "D": "5 Jahre"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 41,
+      "bamf_internal_id": "19007",
+      "images": []
+    },
+    {
+      "id": "DE111",
+      "canonical_id": "general-111",
+      "official_number": 111,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+      "options": {
+        "A": "die Politik Israels öffentlich kritisieren",
+        "B": "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+        "C": "eine Diskussion über die Politik Israels",
+        "D": "der öffentliche Aufruf zur Vernichtung Israels"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 41,
+      "bamf_internal_id": "18972",
+      "images": []
+    },
+    {
+      "id": "DE112",
+      "canonical_id": "general-112",
+      "official_number": 112,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Wahlen in Deutschland sind ...",
+      "options": {
+        "A": "speziell.",
+        "B": "geheim.",
+        "C": "berufsbezogen.",
+        "D": "geschlechtsabhängig."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 41,
+      "bamf_internal_id": "19022",
+      "images": []
+    },
+    {
+      "id": "DE113",
+      "canonical_id": "general-113",
+      "official_number": 113,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wahlen in Deutschland gewinnt die Partei, die ...",
+      "options": {
+        "A": "die meisten Stimmen bekommt.",
+        "B": "die meisten Männer mehrheitlich gewählt haben.",
+        "C": "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.",
+        "D": "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 42,
+      "bamf_internal_id": "19013",
+      "images": []
+    },
+    {
+      "id": "DE114",
+      "canonical_id": "general-114",
+      "official_number": 114,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "An demokratischen Wahlen in Deutschland teilzunehmen ist ...",
+      "options": {
+        "A": "eine Pflicht.",
+        "B": "ein Recht.",
+        "C": "ein Zwang.",
+        "D": "eine Last."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 42,
+      "bamf_internal_id": "18946",
+      "images": []
+    },
+    {
+      "id": "DE115",
+      "canonical_id": "general-115",
+      "official_number": 115,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+      "options": {
+        "A": "Man kann gewählt werden.",
+        "B": "Man muss wählen gehen.",
+        "C": "Man kann wählen.",
+        "D": "Man muss zur Auszählung der Stimmen gehen."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 42,
+      "bamf_internal_id": "19019",
+      "images": []
+    },
+    {
+      "id": "DE116",
+      "canonical_id": "general-116",
+      "official_number": 116,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das ...",
+      "options": {
+        "A": "aktive Wahlkampagne.",
+        "B": "aktives Wahlverfahren.",
+        "C": "aktiver Wahlkampf.",
+        "D": "aktives Wahlrecht."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 43,
+      "bamf_internal_id": "18940",
+      "images": []
+    },
+    {
+      "id": "DE117",
+      "canonical_id": "general-117",
+      "official_number": 117,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+      "options": {
+        "A": "3%",
+        "B": "4%",
+        "C": "5%",
+        "D": "6%"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 43,
+      "bamf_internal_id": "18983",
+      "images": []
+    },
+    {
+      "id": "DE118",
+      "canonical_id": "general-118",
+      "official_number": 118,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+      "options": {
+        "A": "nur Deutsche",
+        "B": "nur Israelis",
+        "C": "nur religiöse Menschen",
+        "D": "alle Menschen"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 43,
+      "bamf_internal_id": "18964",
+      "images": []
+    },
+    {
+      "id": "DE119",
+      "canonical_id": "general-119",
+      "official_number": 119,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "options": {
+        "A": "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.",
+        "B": "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.",
+        "C": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+        "D": "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 44,
+      "bamf_internal_id": "18967",
+      "images": []
+    },
+    {
+      "id": "DE120",
+      "canonical_id": "general-120",
+      "official_number": 120,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Das Wahlsystem in Deutschland ist ein ...",
+      "options": {
+        "A": "Zensuswahlrecht.",
+        "B": "Dreiklassenwahlrecht.",
+        "C": "Mehrheits- und Verhältniswahlrecht.",
+        "D": "allgemeines Männerwahlrecht."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 44,
+      "bamf_internal_id": "18991",
+      "images": []
+    },
+    {
+      "id": "DE121",
+      "canonical_id": "general-121",
+      "official_number": 121,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt ...",
+      "options": {
+        "A": "5%-Hürde.",
+        "B": "Zulassungsgrenze.",
+        "C": "Basiswert.",
+        "D": "Richtlinie."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 44,
+      "bamf_internal_id": "18941",
+      "images": []
+    },
+    {
+      "id": "DE122",
+      "canonical_id": "general-122",
+      "official_number": 122,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind ...",
+      "options": {
+        "A": "frei, gleich, geheim.",
+        "B": "offen, sicher, frei.",
+        "C": "geschlossen, gleich, sicher.",
+        "D": "sicher, offen, freiwillig."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 45,
+      "bamf_internal_id": "18973",
+      "images": []
+    },
+    {
+      "id": "DE123",
+      "canonical_id": "general-123",
+      "official_number": 123,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist in Deutschland die \"5%-Hürde\"?",
+      "options": {
+        "A": "Abstimmungsregelung im Bundestag für kleine Parteien",
+        "B": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+        "C": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+        "D": "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 45,
+      "bamf_internal_id": "18979",
+      "images": []
+    },
+    {
+      "id": "DE124",
+      "canonical_id": "general-124",
+      "official_number": 124,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Bundestagswahl in Deutschland ist die Wahl ...",
+      "options": {
+        "A": "der Bundeskanzlerin/des Bundeskanzlers.",
+        "B": "der Parlamente der Länder.",
+        "C": "des Parlaments für Deutschland.",
+        "D": "der Bundespräsidentin/des Bundespräsidenten."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 45,
+      "bamf_internal_id": "18951",
+      "images": []
+    },
+    {
+      "id": "DE125",
+      "canonical_id": "general-125",
+      "official_number": 125,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, ...",
+      "options": {
+        "A": "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",
+        "B": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+        "C": "im Land bestehende Gesetze beizubehalten.",
+        "D": "den Armen mehr Macht zu geben."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 46,
+      "bamf_internal_id": "18986",
+      "images": []
+    },
+    {
+      "id": "DE126",
+      "canonical_id": "general-126",
+      "official_number": 126,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+      "options": {
+        "A": "eine Wahlbenachrichtigung von der Gemeinde",
+        "B": "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
+        "C": "eine Benachrichtigung von der Bundesversammlung",
+        "D": "eine Benachrichtigung vom Pfarramt"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 46,
+      "bamf_internal_id": "18957",
+      "images": []
+    },
+    {
+      "id": "DE127",
+      "canonical_id": "general-127",
+      "official_number": 127,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil ...",
+      "options": {
+        "A": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+        "B": "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
+        "C": "viele kleine Parteien die Regierungsbildung erschweren.",
+        "D": "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 46,
+      "bamf_internal_id": "18935",
+      "images": []
+    },
+    {
+      "id": "DE128",
+      "canonical_id": "general-128",
+      "official_number": 128,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man ...",
+      "options": {
+        "A": "Abgeordnete.",
+        "B": "Kanzlerinnen/Kanzler.",
+        "C": "Botschafterinnen/Botschafter.",
+        "D": "Ministerpräsidentinnen/Ministerpräsidenten."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 47,
+      "bamf_internal_id": "18997",
+      "images": []
+    },
+    {
+      "id": "DE129",
+      "canonical_id": "general-129",
+      "official_number": 129,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Vom Volk gewählt wird in Deutschland ...",
+      "options": {
+        "A": "die Bundeskanzlerin/der Bundeskanzler.",
+        "B": "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.",
+        "C": "der Bundestag.",
+        "D": "die Bundespräsidentin/der Bundespräsident."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 47,
+      "bamf_internal_id": "19027",
+      "images": []
+    },
+    {
+      "id": "DE130",
+      "canonical_id": "general-130",
+      "official_number": 130,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig? In Anlehnung an Bundeswahlordnung (BWO), Anlage 26",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 48,
+      "bamf_internal_id": "19029",
+      "images": [
+        {
+          "path": "images/general-130.png",
+          "width": 1200,
+          "height": 1023,
+          "mime_type": "image/png",
+          "official_extraction_sha256": "970f2ce57a2434482ea6b9ee923e98cfd1af73f9723aab7777fa3e48845a0c62",
+          "secondary_source_path": "images/130.png",
+          "source_repository": "https://github.com/abdullahbutt/leben-in-deutschland-test",
+          "note": "Equivalent study image from the same question; dimensions and hash below describe the cached copy.",
+          "sha256": "b137b262b821e094a58c195f6b171ad6e2374f0bfdbbcdc827014a8765ebb910"
+        }
+      ]
+    },
+    {
+      "id": "DE131",
+      "canonical_id": "general-131",
+      "official_number": 131,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister ...",
+      "options": {
+        "A": "die Leiterin/der Leiter einer Schule.",
+        "B": "die Chefin/der Chef einer Bank.",
+        "C": "das Oberhaupt einer Gemeinde.",
+        "D": "die/der Vorsitzende einer Partei."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 49,
+      "bamf_internal_id": "19055",
+      "images": []
+    },
+    {
+      "id": "DE132",
+      "canonical_id": "general-132",
+      "official_number": 132,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+      "options": {
+        "A": "Sie arbeiten als Soldatinnen/Soldaten.",
+        "B": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+        "C": "Sie arbeiten in der Bundesregierung.",
+        "D": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 49,
+      "bamf_internal_id": "19042",
+      "images": []
+    },
+    {
+      "id": "DE133",
+      "canonical_id": "general-133",
+      "official_number": 133,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+      "options": {
+        "A": "Der Ehemann wählt für seine Frau mit.",
+        "B": "Man kann durch Briefwahl seine Stimme abgeben.",
+        "C": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+        "D": "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 49,
+      "bamf_internal_id": "19034",
+      "images": []
+    },
+    {
+      "id": "DE134",
+      "canonical_id": "general-134",
+      "official_number": 134,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+      "options": {
+        "A": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+        "B": "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+        "C": "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",
+        "D": "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 50,
+      "bamf_internal_id": "19045",
+      "images": []
+    },
+    {
+      "id": "DE135",
+      "canonical_id": "general-135",
+      "official_number": 135,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wen vertreten die Gewerkschaften in Deutschland?",
+      "options": {
+        "A": "große Unternehmen",
+        "B": "kleine Unternehmen",
+        "C": "Selbstständige",
+        "D": "Arbeitnehmerinnen und Arbeitnehmer"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 50,
+      "bamf_internal_id": "19052",
+      "images": []
+    },
+    {
+      "id": "DE136",
+      "canonical_id": "general-136",
+      "official_number": 136,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Sie gehen in Deutschland zum Arbeitsgericht bei ...",
+      "options": {
+        "A": "falscher Nebenkostenabrechnung.",
+        "B": "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+        "C": "Problemen mit den Nachbarinnen/Nachbarn.",
+        "D": "Schwierigkeiten nach einem Verkehrsunfall."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 50,
+      "bamf_internal_id": "19106",
+      "images": []
+    },
+    {
+      "id": "DE137",
+      "canonical_id": "general-137",
+      "official_number": 137,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+      "options": {
+        "A": "das Familiengericht",
+        "B": "das Strafgericht",
+        "C": "das Arbeitsgericht",
+        "D": "das Amtsgericht"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 51,
+      "bamf_internal_id": "19103",
+      "images": []
+    },
+    {
+      "id": "DE138",
+      "canonical_id": "general-138",
+      "official_number": 138,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+      "options": {
+        "A": "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+        "B": "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen",
+        "C": "Kündigungsschutzklage erheben",
+        "D": "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 51,
+      "bamf_internal_id": "19099",
+      "images": []
+    },
+    {
+      "id": "DE139",
+      "canonical_id": "general-139",
+      "official_number": 139,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand ...",
+      "options": {
+        "A": "zu einer anderen Religion übertritt.",
+        "B": "eine Straftat begangen hat und angeklagt wird.",
+        "C": "eine andere Meinung als die der Regierung vertritt.",
+        "D": "sein Auto falsch geparkt hat und es abgeschleppt wird."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 51,
+      "bamf_internal_id": "19070",
+      "images": []
+    },
+    {
+      "id": "DE140",
+      "canonical_id": "general-140",
+      "official_number": 140,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er ...",
+      "options": {
+        "A": "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+        "B": "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
+        "C": "stellt Urkunden aus.",
+        "D": "verteidigt die Angeklagte/den Angeklagten."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 52,
+      "bamf_internal_id": "19073",
+      "images": []
+    },
+    {
+      "id": "DE141",
+      "canonical_id": "general-141",
+      "official_number": 141,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+      "options": {
+        "A": "eine Rechtsanwältin/ein Rechtsanwalt",
+        "B": "eine Richterin/ein Richter",
+        "C": "eine Schöffin/ein Schöffe",
+        "D": "eine Staatsanwältin/ein Staatsanwalt"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 52,
+      "bamf_internal_id": "19109",
+      "images": []
+    },
+    {
+      "id": "DE142",
+      "canonical_id": "general-142",
+      "official_number": 142,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter ...",
+      "options": {
+        "A": "vertritt Bürgerinnen und Bürger vor einem Gericht.",
+        "B": "arbeitet an einem Gericht und spricht Urteile.",
+        "C": "ändert Gesetze.",
+        "D": "betreut Jugendliche vor Gericht."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 52,
+      "bamf_internal_id": "19078",
+      "images": []
+    },
+    {
+      "id": "DE143",
+      "canonical_id": "general-143",
+      "official_number": 143,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Richterin/ein Richter in Deutschland gehört zur ...",
+      "options": {
+        "A": "Judikative.",
+        "B": "Exekutive.",
+        "C": "Operative.",
+        "D": "Legislative."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 53,
+      "bamf_internal_id": "19061",
+      "images": []
+    },
+    {
+      "id": "DE144",
+      "canonical_id": "general-144",
+      "official_number": 144,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Richterin/ein Richter gehört in Deutschland zur ...",
+      "options": {
+        "A": "vollziehenden Gewalt.",
+        "B": "rechtsprechenden Gewalt.",
+        "C": "planenden Gewalt.",
+        "D": "gesetzgebenden Gewalt."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 53,
+      "bamf_internal_id": "19058",
+      "images": []
+    },
+    {
+      "id": "DE145",
+      "canonical_id": "general-145",
+      "official_number": 145,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die ...",
+      "options": {
+        "A": "Judikative",
+        "B": "Exekutive",
+        "C": "Presse",
+        "D": "Legislative"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 53,
+      "bamf_internal_id": "19081",
+      "images": []
+    },
+    {
+      "id": "DE146",
+      "canonical_id": "general-146",
+      "official_number": 146,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+      "options": {
+        "A": "Programm",
+        "B": "Prozedur",
+        "C": "Protokoll",
+        "D": "Prozess"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 54,
+      "bamf_internal_id": "19116",
+      "images": []
+    },
+    {
+      "id": "DE147",
+      "canonical_id": "general-147",
+      "official_number": 147,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+      "options": {
+        "A": "Deutschland regieren",
+        "B": "Recht sprechen",
+        "C": "Pläne erstellen",
+        "D": "Gesetze erlassen"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 54,
+      "bamf_internal_id": "19066",
+      "images": []
+    },
+    {
+      "id": "DE148",
+      "canonical_id": "general-148",
+      "official_number": 148,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist eine Aufgabe der Polizei in Deutschland?",
+      "options": {
+        "A": "das Land zu verteidigen",
+        "B": "die Bürgerinnen und Bürger abzuhören",
+        "C": "die Gesetze zu beschließen",
+        "D": "die Einhaltung von Gesetzen zu überwachen"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 54,
+      "bamf_internal_id": "19096",
+      "images": []
+    },
+    {
+      "id": "DE149",
+      "canonical_id": "general-149",
+      "official_number": 149,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist ein Beispiel für antisemitisches Verhalten?",
+      "options": {
+        "A": "ein jüdisches Fest besuchen",
+        "B": "die israelische Regierung kritisieren",
+        "C": "den Holocaust leugnen",
+        "D": "gegen Juden Fußball spielen."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 55,
+      "bamf_internal_id": "19087",
+      "images": []
+    },
+    {
+      "id": "DE150",
+      "canonical_id": "general-150",
+      "official_number": 150,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist ...",
+      "options": {
+        "A": "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+        "B": "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+        "C": "ein Mitglied eines Gemeinderats.",
+        "D": "eine Person, die Jura studiert hat."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 55,
+      "bamf_internal_id": "19090",
+      "images": []
+    },
+    {
+      "id": "DE151",
+      "canonical_id": "general-151",
+      "official_number": 151,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer baute die Mauer in Berlin?",
+      "options": {
+        "A": "Großbritannien",
+        "B": "die DDR",
+        "C": "die Bundesrepublik Deutschland",
+        "D": "die USA"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 55,
+      "bamf_internal_id": "18226",
+      "images": []
+    },
+    {
+      "id": "DE152",
+      "canonical_id": "general-152",
+      "official_number": 152,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+      "options": {
+        "A": "1918 bis 1923",
+        "B": "1932 bis 1950",
+        "C": "1933 bis 1945",
+        "D": "1945 bis 1989"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 56,
+      "bamf_internal_id": "18135",
+      "images": []
+    },
+    {
+      "id": "DE153",
+      "canonical_id": "general-153",
+      "official_number": 153,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was war am 8. Mai 1945?",
+      "options": {
+        "A": "Tod Adolf Hitlers",
+        "B": "Beginn des Berliner Mauerbaus",
+        "C": "Wahl von Konrad Adenauer zum Bundeskanzler",
+        "D": "Ende des Zweiten Weltkriegs in Europa"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 56,
+      "bamf_internal_id": "18128",
+      "images": []
+    },
+    {
+      "id": "DE154",
+      "canonical_id": "general-154",
+      "official_number": 154,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann war der Zweite Weltkrieg zu Ende?",
+      "options": {
+        "A": "1933",
+        "B": "1945",
+        "C": "1949",
+        "D": "1961"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 56,
+      "bamf_internal_id": "18118",
+      "images": []
+    },
+    {
+      "id": "DE155",
+      "canonical_id": "general-155",
+      "official_number": 155,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+      "options": {
+        "A": "1888 bis 1918",
+        "B": "1921 bis 1934",
+        "C": "1933 bis 1945",
+        "D": "1949 bis 1963"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 57,
+      "bamf_internal_id": "18131",
+      "images": []
+    },
+    {
+      "id": "DE156",
+      "canonical_id": "general-156",
+      "official_number": 156,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welchem Jahr wurde Hitler Reichskanzler?",
+      "options": {
+        "A": "1923",
+        "B": "1927",
+        "C": "1933",
+        "D": "1936"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 57,
+      "bamf_internal_id": "18111",
+      "images": []
+    },
+    {
+      "id": "DE157",
+      "canonical_id": "general-157",
+      "official_number": 157,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland ...",
+      "options": {
+        "A": "eine Diktatur.",
+        "B": "einen demokratischen Staat.",
+        "C": "eine Monarchie.",
+        "D": "ein Fürstentum."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 57,
+      "bamf_internal_id": "18085",
+      "images": []
+    },
+    {
+      "id": "DE158",
+      "canonical_id": "general-158",
+      "official_number": 158,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Das \"Dritte Reich\" war eine ...",
+      "options": {
+        "A": "Diktatur.",
+        "B": "Demokratie.",
+        "C": "Monarchie.",
+        "D": "Räterepublik."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 58,
+      "bamf_internal_id": "18097",
+      "images": []
+    },
+    {
+      "id": "DE159",
+      "canonical_id": "general-159",
+      "official_number": 159,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+      "options": {
+        "A": "freie Wahlen",
+        "B": "Pressezensur",
+        "C": "willkürliche Verhaftungen",
+        "D": "Verfolgung von Juden"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 58,
+      "bamf_internal_id": "18121",
+      "images": []
+    },
+    {
+      "id": "DE160",
+      "canonical_id": "general-160",
+      "official_number": 160,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welcher Krieg dauerte von 1939 bis 1945?",
+      "options": {
+        "A": "der Erste Weltkrieg",
+        "B": "der Zweite Weltkrieg",
+        "C": "der Vietnamkrieg",
+        "D": "der Golfkrieg"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 58,
+      "bamf_internal_id": "18102",
+      "images": []
+    },
+    {
+      "id": "DE161",
+      "canonical_id": "general-161",
+      "official_number": 161,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was kennzeichnete den NS-Staat? Eine Politik ...",
+      "options": {
+        "A": "des staatlichen Rassismus",
+        "B": "der Meinungsfreiheit",
+        "C": "der allgemeinen Religionsfreiheit",
+        "D": "der Entwicklung der Demokratie"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 59,
+      "bamf_internal_id": "18137",
+      "images": []
+    },
+    {
+      "id": "DE162",
+      "canonical_id": "general-162",
+      "official_number": 162,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Claus Schenk Graf von Stauffenberg wurde bekannt durch ...",
+      "options": {
+        "A": "eine Goldmedaille bei den Olympischen Spielen 1936.",
+        "B": "den Bau des Reichstagsgebäudes.",
+        "C": "den Aufbau der Wehrmacht.",
+        "D": "das Attentat auf Hitler am 20. Juli 1944."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 59,
+      "bamf_internal_id": "18096",
+      "images": []
+    },
+    {
+      "id": "DE163",
+      "canonical_id": "general-163",
+      "official_number": 163,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+      "options": {
+        "A": "1925",
+        "B": "1930",
+        "C": "1938",
+        "D": "1945"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 59,
+      "bamf_internal_id": "18115",
+      "images": []
+    },
+    {
+      "id": "DE164",
+      "canonical_id": "general-164",
+      "official_number": 164,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was passierte am 9. November 1938 in Deutschland?",
+      "options": {
+        "A": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+        "B": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+        "C": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+        "D": "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 60,
+      "bamf_internal_id": "18107",
+      "images": []
+    },
+    {
+      "id": "DE165",
+      "canonical_id": "general-165",
+      "official_number": 165,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Konrad Adenauer",
+        "B": "Kurt Georg Kiesinger",
+        "C": "Helmut Schmidt",
+        "D": "Willy Brandt"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 60,
+      "bamf_internal_id": "18193",
+      "images": []
+    },
+    {
+      "id": "DE166",
+      "canonical_id": "general-166",
+      "official_number": 166,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+      "options": {
+        "A": "beim Arbeiteraufstand 1953 in der DDR",
+        "B": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+        "C": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+        "D": "bei den Montagsdemonstrationen 1989 in der DDR"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 60,
+      "bamf_internal_id": "18239",
+      "images": []
+    },
+    {
+      "id": "DE167",
+      "canonical_id": "general-167",
+      "official_number": 167,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+      "options": {
+        "A": "Sowjetunion, Großbritannien, Polen, Schweden",
+        "B": "Frankreich, Sowjetunion, Italien, Japan",
+        "C": "USA, Sowjetunion, Spanien, Portugal",
+        "D": "USA, Sowjetunion, Großbritannien, Frankreich"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 61,
+      "bamf_internal_id": "18144",
+      "images": []
+    },
+    {
+      "id": "DE168",
+      "canonical_id": "general-168",
+      "official_number": 168,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+      "options": {
+        "A": "USA",
+        "B": "Sowjetunion",
+        "C": "Frankreich",
+        "D": "Japan"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 61,
+      "bamf_internal_id": "18192",
+      "images": []
+    },
+    {
+      "id": "DE169",
+      "canonical_id": "general-169",
+      "official_number": 169,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+      "options": {
+        "A": "1939",
+        "B": "1945",
+        "C": "1949",
+        "D": "1951"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 61,
+      "bamf_internal_id": "18151",
+      "images": []
+    },
+    {
+      "id": "DE170",
+      "canonical_id": "general-170",
+      "official_number": 170,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+      "options": {
+        "A": "das Verbot von Parteien",
+        "B": "das Recht zur freien Entfaltung der Persönlichkeit",
+        "C": "Pressefreiheit",
+        "D": "den Schutz der Menschenwürde"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 62,
+      "bamf_internal_id": "18089",
+      "images": []
+    },
+    {
+      "id": "DE171",
+      "canonical_id": "general-171",
+      "official_number": 171,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Soziale Marktwirtschaft bedeutet, die Wirtschaft ...",
+      "options": {
+        "A": "steuert sich allein nach Angebot und Nachfrage.",
+        "B": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+        "C": "richtet sich nach der Nachfrage im Ausland.",
+        "D": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 62,
+      "bamf_internal_id": "18172",
+      "images": []
+    },
+    {
+      "id": "DE172",
+      "canonical_id": "general-172",
+      "official_number": 172,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welcher Besatzungszone wurde die DDR gegründet? In der ...",
+      "options": {
+        "A": "amerikanischen Besatzungszone",
+        "B": "französischen Besatzungszone",
+        "C": "britischen Besatzungszone",
+        "D": "sowjetischen Besatzungszone"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 62,
+      "bamf_internal_id": "18180",
+      "images": []
+    },
+    {
+      "id": "DE173",
+      "canonical_id": "general-173",
+      "official_number": 173,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied ...",
+      "options": {
+        "A": "des Nordatlantikpakts (NATO).",
+        "B": "der Vereinten Nationen (VN).",
+        "C": "der Europäischen Union (EU).",
+        "D": "des Warschauer Pakts."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 63,
+      "bamf_internal_id": "18211",
+      "images": []
+    },
+    {
+      "id": "DE174",
+      "canonical_id": "general-174",
+      "official_number": 174,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann wurde die DDR gegründet?",
+      "options": {
+        "A": "1947",
+        "B": "1949",
+        "C": "1953",
+        "D": "1956"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 63,
+      "bamf_internal_id": "18214",
+      "images": []
+    },
+    {
+      "id": "DE175",
+      "canonical_id": "general-175",
+      "official_number": 175,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 63,
+      "bamf_internal_id": "18222",
+      "images": []
+    },
+    {
+      "id": "DE176",
+      "canonical_id": "general-176",
+      "official_number": 176,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+      "options": {
+        "A": "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+        "B": "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+        "C": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+        "D": "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 64,
+      "bamf_internal_id": "18199",
+      "images": [
+        {
+          "path": "images/general-176.png",
+          "sha256": "3d912762b101c9d7ccf723e768b4f5ad84448f10a0190a551b21e128a0177ae4",
+          "width": 531,
+          "height": 711,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "DE177",
+      "canonical_id": "general-177",
+      "official_number": 177,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+      "options": {
+        "A": "München",
+        "B": "Berlin",
+        "C": "Dresden",
+        "D": "Frankfurt/Oder"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 65,
+      "bamf_internal_id": "18154",
+      "images": []
+    },
+    {
+      "id": "DE178",
+      "canonical_id": "general-178",
+      "official_number": 178,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+      "options": {
+        "A": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+        "B": "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.",
+        "C": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+        "D": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 65,
+      "bamf_internal_id": "18176",
+      "images": []
+    },
+    {
+      "id": "DE179",
+      "canonical_id": "general-179",
+      "official_number": 179,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+      "options": {
+        "A": "mit dem Tod Adolf Hitlers",
+        "B": "durch die bedingungslose Kapitulation Deutschlands",
+        "C": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+        "D": "durch eine Revolution in Deutschland"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 65,
+      "bamf_internal_id": "18202",
+      "images": []
+    },
+    {
+      "id": "DE180",
+      "canonical_id": "general-180",
+      "official_number": 180,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Der erste Bundeskanzler der Bundesrepublik Deutschland war ...",
+      "options": {
+        "A": "Ludwig Erhard.",
+        "B": "Willy Brandt.",
+        "C": "Konrad Adenauer.",
+        "D": "Gerhard Schröder."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 66,
+      "bamf_internal_id": "18163",
+      "images": []
+    },
+    {
+      "id": "DE181",
+      "canonical_id": "general-181",
+      "official_number": 181,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken? © Bundesregierung/Engelbert Reineke",
+      "options": {
+        "A": "Er hat sich den ehemaligen Alliierten unterworfen.",
+        "B": "Er bat Polen und die polnischen Juden um Vergebung.",
+        "C": "Er zeigte seine Demut vor dem Warschauer Pakt.",
+        "D": "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 67,
+      "bamf_internal_id": "18206",
+      "images": [
+        {
+          "path": "images/general-181.jpeg",
+          "sha256": "b90a3c66c043f8ecc70e61e1df1c998b2ed6e89bd920339a446c0a762a96441b",
+          "width": 1180,
+          "height": 1672,
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "DE182",
+      "canonical_id": "general-182",
+      "official_number": 182,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie heißt das jüdische Gebetshaus?",
+      "options": {
+        "A": "Basilika",
+        "B": "Moschee",
+        "C": "Synagoge",
+        "D": "Kirche"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 68,
+      "bamf_internal_id": "18187",
+      "images": []
+    },
+    {
+      "id": "DE183",
+      "canonical_id": "general-183",
+      "official_number": 183,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+      "options": {
+        "A": "40er Jahre",
+        "B": "50er Jahre",
+        "C": "70er Jahre",
+        "D": "80er Jahre"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 68,
+      "bamf_internal_id": "18158",
+      "images": []
+    },
+    {
+      "id": "DE184",
+      "canonical_id": "general-184",
+      "official_number": 184,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+      "options": {
+        "A": "eine Resolution der Vereinten Nationen",
+        "B": "ein Beschluss des Zionistenkongresses",
+        "C": "ein Vorschlag der Bundesregierung",
+        "D": "ein Vorschlag der UdSSR"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 68,
+      "bamf_internal_id": "18217",
+      "images": []
+    },
+    {
+      "id": "DE185",
+      "canonical_id": "general-185",
+      "official_number": 185,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung ...",
+      "options": {
+        "A": "des Warschauer Pakts gegen den Westen",
+        "B": "Norddeutschlands gegen Süddeutschland",
+        "C": "Nazi-Deutschlands gegen die Alliierten",
+        "D": "Europas gegen die USA"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 69,
+      "bamf_internal_id": "18181",
+      "images": []
+    },
+    {
+      "id": "DE186",
+      "canonical_id": "general-186",
+      "official_number": 186,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+      "options": {
+        "A": "1. Mai",
+        "B": "17. Juni",
+        "C": "20. Juli",
+        "D": "9. November"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 69,
+      "bamf_internal_id": "18166",
+      "images": []
+    },
+    {
+      "id": "DE187",
+      "canonical_id": "general-187",
+      "official_number": 187,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+      "options": {
+        "A": "Preußen",
+        "B": "Bundesrepublik Deutschland",
+        "C": "\"Drittes Reich\"",
+        "D": "DDR"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 70,
+      "bamf_internal_id": "18316",
+      "images": [
+        {
+          "path": "images/general-187.png",
+          "sha256": "7d246c2739f233747f42daa2c26f9327fa65157f56bd80b61ee4676c409caef4",
+          "width": 1920,
+          "height": 1152,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "DE188",
+      "canonical_id": "general-188",
+      "official_number": 188,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+      "options": {
+        "A": "1953",
+        "B": "1956",
+        "C": "1959",
+        "D": "1961"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 70,
+      "bamf_internal_id": "18248",
+      "images": []
+    },
+    {
+      "id": "DE189",
+      "canonical_id": "general-189",
+      "official_number": 189,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann baute die DDR die Mauer in Berlin?",
+      "options": {
+        "A": "1919",
+        "B": "1933",
+        "C": "1961",
+        "D": "1990"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 71,
+      "bamf_internal_id": "18303",
+      "images": []
+    },
+    {
+      "id": "DE190",
+      "canonical_id": "general-190",
+      "official_number": 190,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet die Abkürzung DDR?",
+      "options": {
+        "A": "Dritter Deutscher Rundfunk",
+        "B": "Die Deutsche Republik",
+        "C": "Dritte Deutsche Republik",
+        "D": "Deutsche Demokratische Republik"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 71,
+      "bamf_internal_id": "18264",
+      "images": []
+    },
+    {
+      "id": "DE191",
+      "canonical_id": "general-191",
+      "official_number": 191,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+      "options": {
+        "A": "1987",
+        "B": "1989",
+        "C": "1992",
+        "D": "1995"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 71,
+      "bamf_internal_id": "18258",
+      "images": []
+    },
+    {
+      "id": "DE192",
+      "canonical_id": "general-192",
+      "official_number": 192,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": {
+        "A": "Brandenburg",
+        "B": "Bayern",
+        "C": "Saarland",
+        "D": "Hessen"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 72,
+      "bamf_internal_id": "18309",
+      "images": []
+    },
+    {
+      "id": "DE193",
+      "canonical_id": "general-193",
+      "official_number": 193,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Von 1961 bis 1989 war Berlin ...",
+      "options": {
+        "A": "ohne Bürgermeister.",
+        "B": "ein eigener Staat.",
+        "C": "durch eine Mauer geteilt.",
+        "D": "nur mit dem Flugzeug erreichbar."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 72,
+      "bamf_internal_id": "18243",
+      "images": []
+    },
+    {
+      "id": "DE194",
+      "canonical_id": "general-194",
+      "official_number": 194,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen ...",
+      "options": {
+        "A": "Einheit.",
+        "B": "Nation.",
+        "C": "Bundesländer.",
+        "D": "Städte."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 72,
+      "bamf_internal_id": "18253",
+      "images": []
+    },
+    {
+      "id": "DE195",
+      "canonical_id": "general-195",
+      "official_number": 195,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": {
+        "A": "Hessen",
+        "B": "Sachsen-Anhalt",
+        "C": "Nordrhein-Westfalen",
+        "D": "Saarland"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 73,
+      "bamf_internal_id": "18286",
+      "images": []
+    },
+    {
+      "id": "DE196",
+      "canonical_id": "general-196",
+      "official_number": 196,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch ...",
+      "options": {
+        "A": "von einer Diktatur zur Demokratie.",
+        "B": "von einer liberalen Marktwirtschaft zum Sozialismus.",
+        "C": "von einer Monarchie zur Sozialdemokratie.",
+        "D": "von einem religiösen Staat zu einem kommunistischen Staat."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 73,
+      "bamf_internal_id": "18229",
+      "images": []
+    },
+    {
+      "id": "DE197",
+      "canonical_id": "general-197",
+      "official_number": 197,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": {
+        "A": "Thüringen",
+        "B": "Hessen",
+        "C": "Bayern",
+        "D": "Bremen"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 73,
+      "bamf_internal_id": "18305",
+      "images": []
+    },
+    {
+      "id": "DE198",
+      "canonical_id": "general-198",
+      "official_number": 198,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": {
+        "A": "Bayern",
+        "B": "Niedersachsen",
+        "C": "Sachsen",
+        "D": "Baden-Württemberg"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 74,
+      "bamf_internal_id": "18295",
+      "images": []
+    },
+    {
+      "id": "DE199",
+      "canonical_id": "general-199",
+      "official_number": 199,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Mit der Abkürzung \"Stasi\" meinte man in der DDR ...",
+      "options": {
+        "A": "das Parlament.",
+        "B": "das Ministerium für Staatssicherheit.",
+        "C": "eine regierende Partei.",
+        "D": "das Ministerium für Volksbildung."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 74,
+      "bamf_internal_id": "18326",
+      "images": []
+    },
+    {
+      "id": "DE200",
+      "canonical_id": "general-200",
+      "official_number": 200,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+      "options": {
+        "A": "Hessen",
+        "B": "Schleswig-Holstein",
+        "C": "Mecklenburg-Vorpommern",
+        "D": "Saarland"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 74,
+      "bamf_internal_id": "18291",
+      "images": []
+    },
+    {
+      "id": "DE201",
+      "canonical_id": "general-201",
+      "official_number": 201,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+      "options": {
+        "A": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+        "B": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+        "C": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+        "D": "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 75,
+      "bamf_internal_id": "18274",
+      "images": []
+    },
+    {
+      "id": "DE202",
+      "canonical_id": "general-202",
+      "official_number": 202,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
+      "options": {
+        "A": "zu den Westmächten",
+        "B": "zum Warschauer Pakt",
+        "C": "zur NATO",
+        "D": "zu den blockfreien Staaten"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 75,
+      "bamf_internal_id": "18318",
+      "images": []
+    },
+    {
+      "id": "DE203",
+      "canonical_id": "general-203",
+      "official_number": 203,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie hieß das Wirtschaftssystem der DDR?",
+      "options": {
+        "A": "Marktwirtschaft",
+        "B": "Planwirtschaft",
+        "C": "Angebot und Nachfrage",
+        "D": "Kapitalismus"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 75,
+      "bamf_internal_id": "18330",
+      "images": []
+    },
+    {
+      "id": "DE204",
+      "canonical_id": "general-204",
+      "official_number": 204,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+      "options": {
+        "A": "Die Bundesrepublik hat die DDR besetzt.",
+        "B": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+        "C": "Die westlichen Bundesländer sind der DDR beigetreten.",
+        "D": "Die DDR hat die Bundesrepublik Deutschland besetzt."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 76,
+      "bamf_internal_id": "18334",
+      "images": []
+    },
+    {
+      "id": "DE205",
+      "canonical_id": "general-205",
+      "official_number": 205,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch ...",
+      "options": {
+        "A": "zur Europäischen Union.",
+        "B": "zum Warschauer Pakt.",
+        "C": "zur OPEC.",
+        "D": "zur Europäischen Verteidigungsgemeinschaft."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 76,
+      "bamf_internal_id": "18265",
+      "images": []
+    },
+    {
+      "id": "DE206",
+      "canonical_id": "general-206",
+      "official_number": 206,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+      "options": {
+        "A": "an berühmte deutsche Politikerinnen und Politiker",
+        "B": "an die Opfer des Nationalsozialismus",
+        "C": "an Verkehrstote",
+        "D": "an bekannte jüdische Musiker"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 76,
+      "bamf_internal_id": "18270",
+      "images": []
+    },
+    {
+      "id": "DE207",
+      "canonical_id": "general-207",
+      "official_number": 207,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welchem Militärbündnis war die DDR Mitglied?",
+      "options": {
+        "A": "in der NATO",
+        "B": "im Rheinbund",
+        "C": "im Warschauer Pakt",
+        "D": "im Europabündnis"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 77,
+      "bamf_internal_id": "18283",
+      "images": []
+    },
+    {
+      "id": "DE208",
+      "canonical_id": "general-208",
+      "official_number": 208,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was war die \"Stasi\"?",
+      "options": {
+        "A": "der Geheimdienst im \"Dritten Reich\"",
+        "B": "eine berühmte deutsche Gedenkstätte",
+        "C": "der Geheimdienst der DDR",
+        "D": "ein deutscher Sportverein während des Zweiten Weltkrieges"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 77,
+      "bamf_internal_id": "18279",
+      "images": []
+    },
+    {
+      "id": "DE209",
+      "canonical_id": "general-209",
+      "official_number": 209,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 78,
+      "bamf_internal_id": "18300",
+      "images": [
+        {
+          "path": "images/general-209.png",
+          "sha256": "684fb8036a6f0222a70c12413205713084ccdd628be658b667f7b1bea3dc4593",
+          "width": 375,
+          "height": 488,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-209-2.png",
+          "sha256": "23e80abd703404a9dfe17edb88ddc51eb0380b54050de8d0513787ac238c6009",
+          "width": 375,
+          "height": 456,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-209-3.png",
+          "sha256": "23927fc29298f038bd603f7889be1e7cf6115ba77c36a0deb3e5a92312a188f0",
+          "width": 416,
+          "height": 416,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-209-4.png",
+          "sha256": "3a5f338a9fb33257b2a1851bb6506e82dafe94860f12a5111809dcca6ee4df74",
+          "width": 481,
+          "height": 489,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "DE210",
+      "canonical_id": "general-210",
+      "official_number": 210,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+      "options": {
+        "A": "der feierliche Beitritt zum Warschauer Pakt",
+        "B": "landesweite Streiks und ein Volksaufstand",
+        "C": "der 1. SED-Parteitag",
+        "D": "der erste Besuch Fidel Castros"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 78,
+      "bamf_internal_id": "18322",
+      "images": []
+    },
+    {
+      "id": "DE211",
+      "canonical_id": "general-211",
+      "official_number": 211,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welcher Politiker steht für die \"Ostverträge\"?",
+      "options": {
+        "A": "Helmut Kohl",
+        "B": "Willy Brandt",
+        "C": "Michail Gorbatschow",
+        "D": "Ludwig Erhard"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 79,
+      "bamf_internal_id": "18250",
+      "images": []
+    },
+    {
+      "id": "DE212",
+      "canonical_id": "general-212",
+      "official_number": 212,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie heißt Deutschland mit vollem Namen?",
+      "options": {
+        "A": "Bundesstaat Deutschland",
+        "B": "Bundesländer Deutschland",
+        "C": "Bundesrepublik Deutschland",
+        "D": "Bundesbezirk Deutschland"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 79,
+      "bamf_internal_id": "18351",
+      "images": []
+    },
+    {
+      "id": "DE213",
+      "canonical_id": "general-213",
+      "official_number": 213,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie viele Einwohner hat Deutschland?",
+      "options": {
+        "A": "70 Millionen",
+        "B": "78 Millionen",
+        "C": "84 Millionen",
+        "D": "90 Millionen"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 79,
+      "bamf_internal_id": "18339",
+      "images": []
+    },
+    {
+      "id": "DE214",
+      "canonical_id": "general-214",
+      "official_number": 214,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Farben hat die deutsche Flagge?",
+      "options": {
+        "A": "schwarz-rot-gold",
+        "B": "rot-weiß-schwarz",
+        "C": "schwarz-rot-grün",
+        "D": "schwarz-gelb-rot"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 80,
+      "bamf_internal_id": "18357",
+      "images": []
+    },
+    {
+      "id": "DE215",
+      "canonical_id": "general-215",
+      "official_number": 215,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+      "options": {
+        "A": "Gerhard Schröder",
+        "B": "Helmut Kohl",
+        "C": "Konrad Adenauer",
+        "D": "Helmut Schmidt"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 80,
+      "bamf_internal_id": "18362",
+      "images": []
+    },
+    {
+      "id": "DE216",
+      "canonical_id": "general-216",
+      "official_number": 216,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen? © Deutscher Bundestag/Janine Schmitz",
+      "options": {
+        "A": "der Bundesadler",
+        "B": "die Fahne der Stadt Berlin",
+        "C": "der Reichsadler",
+        "D": "die Reichskrone"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 81,
+      "bamf_internal_id": "18793",
+      "images": [
+        {
+          "path": "images/general-216.jpeg",
+          "sha256": "25140a4f7111720e42d97726adaf669b09d9559233bb426a04729bb8418d7d14",
+          "width": 1200,
+          "height": 800,
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "DE217",
+      "canonical_id": "general-217",
+      "official_number": 217,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+      "options": {
+        "A": "1919 bis 1927",
+        "B": "1933 bis 1945",
+        "C": "1945 bis 1961",
+        "D": "1949 bis 1990"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 81,
+      "bamf_internal_id": "18148",
+      "images": []
+    },
+    {
+      "id": "DE218",
+      "canonical_id": "general-218",
+      "official_number": 218,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 82,
+      "bamf_internal_id": "18346",
+      "images": []
+    },
+    {
+      "id": "DE219",
+      "canonical_id": "general-219",
+      "official_number": 219,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit ...",
+      "options": {
+        "A": "1933",
+        "B": "1949",
+        "C": "1971",
+        "D": "1990"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 82,
+      "bamf_internal_id": "18356",
+      "images": []
+    },
+    {
+      "id": "DE220",
+      "canonical_id": "general-220",
+      "official_number": 220,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+      "options": {
+        "A": "an das Ende des Zweiten Weltkrieges",
+        "B": "an die Verabschiedung des Grundgesetzes",
+        "C": "an die Wiedervereinigung Deutschlands",
+        "D": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 82,
+      "bamf_internal_id": "18344",
+      "images": []
+    },
+    {
+      "id": "DE221",
+      "canonical_id": "general-221",
+      "official_number": 221,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+      "options": {
+        "A": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+        "B": "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+        "C": "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+        "D": "Deutsche können in jedem Land mit dem Euro bezahlen."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 83,
+      "bamf_internal_id": "18433",
+      "images": []
+    },
+    {
+      "id": "DE222",
+      "canonical_id": "general-222",
+      "official_number": 222,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Land ist ein Nachbarland von Deutschland?",
+      "options": {
+        "A": "Ungarn",
+        "B": "Portugal",
+        "C": "Spanien",
+        "D": "Schweiz"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 83,
+      "bamf_internal_id": "18384",
+      "images": []
+    },
+    {
+      "id": "DE223",
+      "canonical_id": "general-223",
+      "official_number": 223,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Land ist ein Nachbarland von Deutschland?",
+      "options": {
+        "A": "Rumänien",
+        "B": "Bulgarien",
+        "C": "Polen",
+        "D": "Griechenland"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 83,
+      "bamf_internal_id": "18431",
+      "images": []
+    },
+    {
+      "id": "DE224",
+      "canonical_id": "general-224",
+      "official_number": 224,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet die Abkürzung EU?",
+      "options": {
+        "A": "Europäische Unternehmen",
+        "B": "Europäische Union",
+        "C": "Einheitliche Union",
+        "D": "Euro Union"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 84,
+      "bamf_internal_id": "18398",
+      "images": []
+    },
+    {
+      "id": "DE225",
+      "canonical_id": "general-225",
+      "official_number": 225,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+      "options": {
+        "A": "Tschechien",
+        "B": "Norwegen",
+        "C": "Spanien",
+        "D": "Österreich"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 84,
+      "bamf_internal_id": "18440",
+      "images": []
+    },
+    {
+      "id": "DE226",
+      "canonical_id": "general-226",
+      "official_number": 226,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche ist die Flagge der Europäischen Union?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 85,
+      "bamf_internal_id": "18386",
+      "images": [
+        {
+          "path": "images/general-226.png",
+          "sha256": "d314bc61047fc10c4d8ef399b5e9913368164653422fd492741c36233701289b",
+          "width": 420,
+          "height": 221,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/general-226-2.jpeg",
+          "sha256": "b9034b76ccba3aa1b8c90bc230165448da87c3c5029c7c44cce6f9d0e68bd39f",
+          "width": 421,
+          "height": 280,
+          "mime_type": "image/jpeg"
+        },
+        {
+          "path": "images/general-226-3.jpeg",
+          "sha256": "c43c71bb7bc342904dc34bffe443c1a2d13333cae8eb53c3be851349108e7577",
+          "width": 421,
+          "height": 280,
+          "mime_type": "image/jpeg"
+        },
+        {
+          "path": "images/general-226-4.jpeg",
+          "sha256": "38f37e6069af677316ebc146b1c9ba0e87e47b862402dfe8c4a6d371a5b381fc",
+          "width": 400,
+          "height": 273,
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "DE227",
+      "canonical_id": "general-227",
+      "official_number": 227,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Land ist ein Nachbarland von Deutschland?",
+      "options": {
+        "A": "Finnland",
+        "B": "Dänemark",
+        "C": "Norwegen",
+        "D": "Schweden"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 85,
+      "bamf_internal_id": "18378",
+      "images": []
+    },
+    {
+      "id": "DE228",
+      "canonical_id": "general-228",
+      "official_number": 228,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+      "options": {
+        "A": "NATO-Osterweiterung",
+        "B": "EU-Osterweiterung",
+        "C": "Deutsche Wiedervereinigung",
+        "D": "Europäische Gemeinschaft"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 85,
+      "bamf_internal_id": "18235",
+      "images": []
+    },
+    {
+      "id": "DE229",
+      "canonical_id": "general-229",
+      "official_number": 229,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Land ist ein Nachbarland von Deutschland?",
+      "options": {
+        "A": "Spanien",
+        "B": "Bulgarien",
+        "C": "Norwegen",
+        "D": "Luxemburg"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 86,
+      "bamf_internal_id": "18428",
+      "images": []
+    },
+    {
+      "id": "DE230",
+      "canonical_id": "general-230",
+      "official_number": 230,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle ...",
+      "options": {
+        "A": "5 Jahre.",
+        "B": "6 Jahre.",
+        "C": "7 Jahre.",
+        "D": "8 Jahre."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 86,
+      "bamf_internal_id": "18405",
+      "images": []
+    },
+    {
+      "id": "DE231",
+      "canonical_id": "general-231",
+      "official_number": 231,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet der Begriff \"europäische Integration\"?",
+      "options": {
+        "A": "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.",
+        "B": "Der Begriff meint den Einwanderungsstopp nach Europa.",
+        "C": "Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.",
+        "D": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 86,
+      "bamf_internal_id": "18368",
+      "images": []
+    },
+    {
+      "id": "DE232",
+      "canonical_id": "general-232",
+      "official_number": 232,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer wird bei der Europawahl gewählt?",
+      "options": {
+        "A": "die Europäische Kommission",
+        "B": "die Länder, die in die EU eintreten dürfen",
+        "C": "die Abgeordneten des Europäischen Parlaments",
+        "D": "die europäische Verfassung"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 87,
+      "bamf_internal_id": "18419",
+      "images": []
+    },
+    {
+      "id": "DE233",
+      "canonical_id": "general-233",
+      "official_number": 233,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Land ist ein Nachbarland von Deutschland?",
+      "options": {
+        "A": "Tschechien",
+        "B": "Bulgarien",
+        "C": "Griechenland",
+        "D": "Portugal"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 87,
+      "bamf_internal_id": "18421",
+      "images": []
+    },
+    {
+      "id": "DE234",
+      "canonical_id": "general-234",
+      "official_number": 234,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wo ist ein Sitz des Europäischen Parlaments?",
+      "options": {
+        "A": "London",
+        "B": "Paris",
+        "C": "Berlin",
+        "D": "Straßburg"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 87,
+      "bamf_internal_id": "18392",
+      "images": []
+    },
+    {
+      "id": "DE235",
+      "canonical_id": "general-235",
+      "official_number": 235,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich? © Bundesregierung/Richard Schulze-Vorberg",
+      "options": {
+        "A": "Freundschaft zwischen England und Deutschland",
+        "B": "Reisefreiheit in alle Länder der EU",
+        "C": "Frieden und Sicherheit in den Ländern der EU",
+        "D": "einheitliche Feiertage in den Ländern der EU"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 88,
+      "bamf_internal_id": "18403",
+      "images": [
+        {
+          "path": "images/general-235.jpeg",
+          "sha256": "a0cf90245d5080c3cda54ce79256b4d33a57d61be91671ebc755e675d35c2f96",
+          "width": 2835,
+          "height": 2111,
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "DE236",
+      "canonical_id": "general-236",
+      "official_number": 236,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wie viele Mitgliedstaaten hat die EU heute?",
+      "options": {
+        "A": "21",
+        "B": "23",
+        "C": "25",
+        "D": "27"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 89,
+      "bamf_internal_id": "18396",
+      "images": []
+    },
+    {
+      "id": "DE237",
+      "canonical_id": "general-237",
+      "official_number": 237,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
+      "options": {
+        "A": "Beitritt Deutschlands zur NATO",
+        "B": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+        "C": "Verpflichtung Deutschlands zu Reparationsleistungen",
+        "D": "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 89,
+      "bamf_internal_id": "18410",
+      "images": []
+    },
+    {
+      "id": "DE238",
+      "canonical_id": "general-238",
+      "official_number": 238,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "An welchen Orten arbeitet das Europäische Parlament?",
+      "options": {
+        "A": "Paris, London und Den Haag",
+        "B": "Straßburg, Luxemburg und Brüssel",
+        "C": "Rom, Bern und Wien",
+        "D": "Bonn, Zürich und Mailand"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 89,
+      "bamf_internal_id": "18370",
+      "images": []
+    },
+    {
+      "id": "DE239",
+      "canonical_id": "general-239",
+      "official_number": 239,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+      "options": {
+        "A": "durch die \"Hamburger Verträge\"",
+        "B": "durch die \"Römischen Verträge\"",
+        "C": "durch die \"Pariser Verträge\"",
+        "D": "durch die \"Londoner Verträge\""
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 90,
+      "bamf_internal_id": "18414",
+      "images": []
+    },
+    {
+      "id": "DE240",
+      "canonical_id": "general-240",
+      "official_number": 240,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+      "options": {
+        "A": "1995",
+        "B": "1998",
+        "C": "2002",
+        "D": "2005"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 90,
+      "bamf_internal_id": "18375",
+      "images": []
+    },
+    {
+      "id": "DE241",
+      "canonical_id": "general-241",
+      "official_number": 241,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+      "options": {
+        "A": "Sie muss an ihre Krankenkasse schreiben.",
+        "B": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+        "C": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+        "D": "Sie muss das Arbeitsamt um Erlaubnis bitten."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 90,
+      "bamf_internal_id": "17434",
+      "images": []
+    },
+    {
+      "id": "DE242",
+      "canonical_id": "general-242",
+      "official_number": 242,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+      "options": {
+        "A": "der Staat",
+        "B": "die Bundesländer",
+        "C": "die Eltern/die Erziehungsberechtigten",
+        "D": "die Schulen"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 91,
+      "bamf_internal_id": "17439",
+      "images": []
+    },
+    {
+      "id": "DE243",
+      "canonical_id": "general-243",
+      "official_number": 243,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+      "options": {
+        "A": "Sie müssen die Demonstration anmelden.",
+        "B": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+        "C": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+        "D": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 91,
+      "bamf_internal_id": "18890",
+      "images": []
+    },
+    {
+      "id": "DE244",
+      "canonical_id": "general-244",
+      "official_number": 244,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+      "options": {
+        "A": "das Abitur",
+        "B": "ein Diplom",
+        "C": "die Prokura",
+        "D": "eine Gesellenprüfung"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 91,
+      "bamf_internal_id": "17393",
+      "images": []
+    },
+    {
+      "id": "DE245",
+      "canonical_id": "general-245",
+      "official_number": 245,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+      "options": {
+        "A": "Hans (20 Jahre) und Marie (19 Jahre)",
+        "B": "Tom (20 Jahre) und Klaus (45 Jahre)",
+        "C": "Sofie (35 Jahre) und Lisa (40 Jahre)",
+        "D": "Anne (13 Jahre) und Tim (25 Jahre)"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 92,
+      "bamf_internal_id": "17424",
+      "images": []
+    },
+    {
+      "id": "DE246",
+      "canonical_id": "general-246",
+      "official_number": 246,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ab welchem Alter ist man in Deutschland volljährig?",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "19",
+        "D": "21"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 92,
+      "bamf_internal_id": "17362",
+      "images": []
+    },
+    {
+      "id": "DE247",
+      "canonical_id": "general-247",
+      "official_number": 247,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+      "options": {
+        "A": "Elternzeit",
+        "B": "Mutterschutz",
+        "C": "Geburtsvorbereitung",
+        "D": "Wochenbett"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 92,
+      "bamf_internal_id": "17374",
+      "images": []
+    },
+    {
+      "id": "DE248",
+      "canonical_id": "general-248",
+      "official_number": 248,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe ...",
+      "options": {
+        "A": "des Staates.",
+        "B": "der Eltern.",
+        "C": "der Großeltern.",
+        "D": "der Schulen."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 93,
+      "bamf_internal_id": "17402",
+      "images": []
+    },
+    {
+      "id": "DE249",
+      "canonical_id": "general-249",
+      "official_number": 249,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+      "options": {
+        "A": "der Staat",
+        "B": "die Eltern",
+        "C": "die Verwandten",
+        "D": "die Schulen"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 93,
+      "bamf_internal_id": "17406",
+      "images": []
+    },
+    {
+      "id": "DE250",
+      "canonical_id": "general-250",
+      "official_number": 250,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man ...",
+      "options": {
+        "A": "katholisch ist.",
+        "B": "gut ausgebildet ist.",
+        "C": "eine Frau ist.",
+        "D": "Mitglied einer Partei ist."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 93,
+      "bamf_internal_id": "17398",
+      "images": []
+    },
+    {
+      "id": "DE251",
+      "canonical_id": "general-251",
+      "official_number": 251,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wenn man in Deutschland ein Kind schlägt, ...",
+      "options": {
+        "A": "geht das niemanden etwas an.",
+        "B": "geht das nur die Familie etwas an.",
+        "C": "kann man dafür nicht bestraft werden.",
+        "D": "kann man dafür bestraft werden."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 94,
+      "bamf_internal_id": "17352",
+      "images": []
+    },
+    {
+      "id": "DE252",
+      "canonical_id": "general-252",
+      "official_number": 252,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland ...",
+      "options": {
+        "A": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+        "B": "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+        "C": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+        "D": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 94,
+      "bamf_internal_id": "17301",
+      "images": []
+    },
+    {
+      "id": "DE253",
+      "canonical_id": "general-253",
+      "official_number": 253,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+      "options": {
+        "A": "beim Einwohnermeldeamt",
+        "B": "beim Standesamt",
+        "C": "beim Ordnungsamt",
+        "D": "beim Gewerbeamt"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 94,
+      "bamf_internal_id": "17305",
+      "images": []
+    },
+    {
+      "id": "DE254",
+      "canonical_id": "general-254",
+      "official_number": 254,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+      "options": {
+        "A": "Der Scheidungsprozess dauert ein Jahr.",
+        "B": "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+        "C": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+        "D": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 95,
+      "bamf_internal_id": "17328",
+      "images": []
+    },
+    {
+      "id": "DE255",
+      "canonical_id": "general-255",
+      "official_number": 255,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom ...",
+      "options": {
+        "A": "Ordnungsamt.",
+        "B": "Schulamt.",
+        "C": "Jugendamt.",
+        "D": "Gesundheitsamt."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 95,
+      "bamf_internal_id": "17419",
+      "images": []
+    },
+    {
+      "id": "DE256",
+      "canonical_id": "general-256",
+      "official_number": 256,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+      "options": {
+        "A": "eine Erlaubnis der Polizei",
+        "B": "eine Genehmigung einer Partei",
+        "C": "eine Genehmigung des Einwohnermeldeamts",
+        "D": "eine Gaststättenerlaubnis von der zuständigen Behörde"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 95,
+      "bamf_internal_id": "17332",
+      "images": []
+    },
+    {
+      "id": "DE257",
+      "canonical_id": "general-257",
+      "official_number": 257,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an ...",
+      "options": {
+        "A": "einer Hochschule.",
+        "B": "einem Abendgymnasium.",
+        "C": "einer Hauptschule.",
+        "D": "einer Privatuniversität."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 96,
+      "bamf_internal_id": "17382",
+      "images": []
+    },
+    {
+      "id": "DE258",
+      "canonical_id": "general-258",
+      "official_number": 258,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was darf das Jugendamt in Deutschland?",
+      "options": {
+        "A": "Es entscheidet, welche Schule das Kind besucht.",
+        "B": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+        "C": "Es bezahlt das Kindergeld an die Eltern.",
+        "D": "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 96,
+      "bamf_internal_id": "17310",
+      "images": []
+    },
+    {
+      "id": "DE259",
+      "canonical_id": "general-259",
+      "official_number": 259,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der ...",
+      "options": {
+        "A": "Rentenberechnung.",
+        "B": "Lehrstellensuche.",
+        "C": "Steuererklärung.",
+        "D": "Krankenversicherung."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 96,
+      "bamf_internal_id": "17410",
+      "images": []
+    },
+    {
+      "id": "DE260",
+      "canonical_id": "general-260",
+      "official_number": 260,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland hat ein Kind in der Schule ...",
+      "options": {
+        "A": "Recht auf unbegrenzte Freizeit.",
+        "B": "Wahlfreiheit für alle Fächer.",
+        "C": "Anspruch auf Schulgeld.",
+        "D": "Anwesenheitspflicht."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 97,
+      "bamf_internal_id": "17388",
+      "images": []
+    },
+    {
+      "id": "DE261",
+      "canonical_id": "general-261",
+      "official_number": 261,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An ...",
+      "options": {
+        "A": "einer Hochschule.",
+        "B": "einem Abendgymnasium.",
+        "C": "einer Hauptschule.",
+        "D": "einer Privatuniversität."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 97,
+      "bamf_internal_id": "17378",
+      "images": []
+    },
+    {
+      "id": "DE262",
+      "canonical_id": "general-262",
+      "official_number": 262,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+      "options": {
+        "A": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+        "B": "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+        "C": "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+        "D": "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 97,
+      "bamf_internal_id": "17365",
+      "images": []
+    },
+    {
+      "id": "DE263",
+      "canonical_id": "general-263",
+      "official_number": 263,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, ...",
+      "options": {
+        "A": "werden bestraft.",
+        "B": "werden wie Erwachsene behandelt.",
+        "C": "teilen die Strafe mit ihren Eltern.",
+        "D": "werden nicht bestraft."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 98,
+      "bamf_internal_id": "17345",
+      "images": []
+    },
+    {
+      "id": "DE264",
+      "canonical_id": "general-264",
+      "official_number": 264,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+      "options": {
+        "A": "am Rosenmontag",
+        "B": "am Maifeiertag",
+        "C": "beim Oktoberfest",
+        "D": "an Pfingsten"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 98,
+      "bamf_internal_id": "18049",
+      "images": []
+    },
+    {
+      "id": "DE265",
+      "canonical_id": "general-265",
+      "official_number": 265,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+      "options": {
+        "A": "zum Einwohnermeldeamt",
+        "B": "zum Ordnungsamt",
+        "C": "zur Agentur für Arbeit",
+        "D": "zum Standesamt"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 98,
+      "bamf_internal_id": "17320",
+      "images": []
+    },
+    {
+      "id": "DE266",
+      "canonical_id": "general-266",
+      "official_number": 266,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+      "options": {
+        "A": "wenn die Sonne untergeht",
+        "B": "wenn die Nachbarn schlafen gehen",
+        "C": "um 0 Uhr, Mitternacht",
+        "D": "um 22 Uhr"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 99,
+      "bamf_internal_id": "17284",
+      "images": []
+    },
+    {
+      "id": "DE267",
+      "canonical_id": "general-267",
+      "official_number": 267,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+      "options": {
+        "A": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+        "B": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+        "C": "Sie können zur Polizei gehen und die Tochter anzeigen.",
+        "D": "Sie suchen einen anderen Mann für die Tochter."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 99,
+      "bamf_internal_id": "17341",
+      "images": []
+    },
+    {
+      "id": "DE268",
+      "canonical_id": "general-268",
+      "official_number": 268,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+      "options": {
+        "A": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+        "B": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+        "C": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+        "D": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 99,
+      "bamf_internal_id": "17432",
+      "images": []
+    },
+    {
+      "id": "DE269",
+      "canonical_id": "general-269",
+      "official_number": 269,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf ...",
+      "options": {
+        "A": "monatliches Taschengeld.",
+        "B": "einen Platz in einem Sportverein.",
+        "C": "einen Kindergartenplatz.",
+        "D": "einen Ferienpass."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 100,
+      "bamf_internal_id": "17427",
+      "images": []
+    },
+    {
+      "id": "DE270",
+      "canonical_id": "general-270",
+      "official_number": 270,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Volkshochschule in Deutschland ist eine Einrichtung ...",
+      "options": {
+        "A": "für den Religionsunterricht.",
+        "B": "nur für Jugendliche.",
+        "C": "zur Weiterbildung.",
+        "D": "nur für Rentnerinnen und Rentner."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 100,
+      "bamf_internal_id": "17415",
+      "images": []
+    },
+    {
+      "id": "DE271",
+      "canonical_id": "general-271",
+      "official_number": 271,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+      "options": {
+        "A": "bunte Eier verstecken",
+        "B": "einen Tannenbaum schmücken",
+        "C": "sich mit Masken und Kostümen verkleiden",
+        "D": "Kürbisse vor die Tür stellen"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 100,
+      "bamf_internal_id": "18058",
+      "images": []
+    },
+    {
+      "id": "DE272",
+      "canonical_id": "general-272",
+      "official_number": 272,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+      "options": {
+        "A": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+        "B": "Zwei Frauen leben zusammen.",
+        "C": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+        "D": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 101,
+      "bamf_internal_id": "17336",
+      "images": []
+    },
+    {
+      "id": "DE273",
+      "canonical_id": "general-273",
+      "official_number": 273,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Bei Erziehungsproblemen gehen Sie in Deutschland ...",
+      "options": {
+        "A": "zur Ärztin/zum Arzt.",
+        "B": "zum Gesundheitsamt.",
+        "C": "zum Einwohnermeldeamt.",
+        "D": "zum Jugendamt."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 101,
+      "bamf_internal_id": "17340",
+      "images": []
+    },
+    {
+      "id": "DE274",
+      "canonical_id": "general-274",
+      "official_number": 274,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+      "options": {
+        "A": "das Schweigerecht",
+        "B": "das Briefgeheimnis",
+        "C": "die Schweigepflicht",
+        "D": "die Meinungsfreiheit"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 101,
+      "bamf_internal_id": "17454",
+      "images": []
+    },
+    {
+      "id": "DE275",
+      "canonical_id": "general-275",
+      "official_number": 275,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was braucht man in Deutschland für eine Ehescheidung?",
+      "options": {
+        "A": "die Einwilligung der Eltern",
+        "B": "ein Attest einer Ärztin/eines Arztes",
+        "C": "die Einwilligung der Kinder",
+        "D": "die Unterstützung einer Anwältin/eines Anwalts"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 102,
+      "bamf_internal_id": "17316",
+      "images": []
+    },
+    {
+      "id": "DE276",
+      "canonical_id": "general-276",
+      "official_number": 276,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+      "options": {
+        "A": "Ich kann nichts tun.",
+        "B": "Ich muss mir diese Behandlung gefallen lassen.",
+        "C": "Ich drohe der Person.",
+        "D": "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 102,
+      "bamf_internal_id": "17444",
+      "images": []
+    },
+    {
+      "id": "DE277",
+      "canonical_id": "general-277",
+      "official_number": 277,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie ...",
+      "options": {
+        "A": "kein Englisch spricht.",
+        "B": "zu hohe Gehaltsvorstellungen hat.",
+        "C": "keine Erfahrungen in diesem Beruf hat.",
+        "D": "Mutter ist."
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 102,
+      "bamf_internal_id": "17292",
+      "images": []
+    },
+    {
+      "id": "DE278",
+      "canonical_id": "general-278",
+      "official_number": 278,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er ...",
+      "options": {
+        "A": "im Rollstuhl sitzt.",
+        "B": "keine Erfahrung hat.",
+        "C": "zu hohe Gehaltsvorstellungen hat.",
+        "D": "kein Englisch spricht."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 103,
+      "bamf_internal_id": "17369",
+      "images": []
+    },
+    {
+      "id": "DE279",
+      "canonical_id": "general-279",
+      "official_number": 279,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt ...",
+      "options": {
+        "A": "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+        "B": "alle Mieterinnen und Mieter im Haus.",
+        "C": "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+        "D": "die Adresse des nächsten Ordnungsamtes."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 103,
+      "bamf_internal_id": "17459",
+      "images": []
+    },
+    {
+      "id": "DE280",
+      "canonical_id": "general-280",
+      "official_number": 280,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie ...",
+      "options": {
+        "A": "nichts machen.",
+        "B": "den Bescheid wegwerfen.",
+        "C": "Einspruch einlegen.",
+        "D": "warten, bis ein anderer Bescheid kommt."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 103,
+      "bamf_internal_id": "17447",
+      "images": []
+    },
+    {
+      "id": "DE281",
+      "canonical_id": "general-281",
+      "official_number": 281,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf ...",
+      "options": {
+        "A": "Meinungsfreiheit",
+        "B": "Gleichbehandlung",
+        "C": "Versammlungsfreiheit",
+        "D": "Freizügigkeit"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 104,
+      "bamf_internal_id": "17354",
+      "images": []
+    },
+    {
+      "id": "DE282",
+      "canonical_id": "general-282",
+      "official_number": 282,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+      "options": {
+        "A": "Vereinstrainerin/Vereinstrainer",
+        "B": "Wahlhelferin/Wahlhelfer",
+        "C": "Bibliotheksaufsicht",
+        "D": "Lehrerin/Lehrer"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 104,
+      "bamf_internal_id": "19038",
+      "images": []
+    },
+    {
+      "id": "DE283",
+      "canonical_id": "general-283",
+      "official_number": 283,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+      "options": {
+        "A": "Ich lasse die Rechnung liegen.",
+        "B": "Ich lege Widerspruch bei der Behörde ein.",
+        "C": "Ich schicke die Rechnung an die Behörde zurück.",
+        "D": "Ich gehe mit der Rechnung zum Finanzamt."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 104,
+      "bamf_internal_id": "17298",
+      "images": []
+    },
+    {
+      "id": "DE284",
+      "canonical_id": "general-284",
+      "official_number": 284,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+      "options": {
+        "A": "Es ist egal, was man lernt.",
+        "B": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+        "C": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+        "D": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 105,
+      "bamf_internal_id": "17390",
+      "images": []
+    },
+    {
+      "id": "DE285",
+      "canonical_id": "general-285",
+      "official_number": 285,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+      "options": {
+        "A": "Lohnsteuer",
+        "B": "Beiträge zur Arbeitslosenversicherung",
+        "C": "Beiträge zur Renten- und Krankenversicherung",
+        "D": "Umsatzsteuer"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 105,
+      "bamf_internal_id": "18896",
+      "images": []
+    },
+    {
+      "id": "DE286",
+      "canonical_id": "general-286",
+      "official_number": 286,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+      "options": {
+        "A": "der Betriebsrat",
+        "B": "die Betriebsprüferin/der Betriebsprüfer",
+        "C": "die Betriebsgruppe",
+        "D": "das Betriebsmanagement"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 105,
+      "bamf_internal_id": "17321",
+      "images": []
+    },
+    {
+      "id": "DE287",
+      "canonical_id": "general-287",
+      "official_number": 287,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+      "options": {
+        "A": "die Gehaltszahlungen",
+        "B": "die Arbeitszeit",
+        "C": "die Kündigungsfrist",
+        "D": "die Versicherungspflicht"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 106,
+      "bamf_internal_id": "17287",
+      "images": []
+    },
+    {
+      "id": "DE288",
+      "canonical_id": "general-288",
+      "official_number": 288,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+      "options": {
+        "A": "aus der Mitgliedschaft in der Europäischen Union (EU)",
+        "B": "aus den nationalsozialistischen Verbrechen gegen Juden",
+        "C": "aus dem Grundgesetz der Bundesrepublik Deutschland",
+        "D": "aus der christlichen Tradition"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 106,
+      "bamf_internal_id": "17294",
+      "images": []
+    },
+    {
+      "id": "DE289",
+      "canonical_id": "general-289",
+      "official_number": 289,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil ...",
+      "options": {
+        "A": "seine Deutschkenntnisse zu gering sind.",
+        "B": "er zu hohe Gehaltsvorstellungen hat.",
+        "C": "er eine dunkle Haut hat.",
+        "D": "er keine Erfahrungen im Beruf hat."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 107,
+      "bamf_internal_id": "17359",
+      "images": []
+    },
+    {
+      "id": "DE290",
+      "canonical_id": "general-290",
+      "official_number": 290,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+      "options": {
+        "A": "eine Anzeige schreiben",
+        "B": "den Fernseher reklamieren",
+        "C": "das Gerät ungefragt austauschen",
+        "D": "die Garantie verlängern"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 108,
+      "bamf_internal_id": "17450",
+      "images": []
+    },
+    {
+      "id": "DE291",
+      "canonical_id": "general-291",
+      "official_number": 291,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil ...",
+      "options": {
+        "A": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+        "B": "das für die Statistik in Deutschland wichtig ist.",
+        "C": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+        "D": "die Kirche für die Steuererklärung verantwortlich ist."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 108,
+      "bamf_internal_id": "18062",
+      "images": []
+    },
+    {
+      "id": "DE292",
+      "canonical_id": "general-292",
+      "official_number": 292,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+      "options": {
+        "A": "Es dürfen keine Moscheen gebaut werden.",
+        "B": "Alle Menschen glauben an Gott.",
+        "C": "Jeder kann glauben, was er möchte.",
+        "D": "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 108,
+      "bamf_internal_id": "17463",
+      "images": []
+    },
+    {
+      "id": "DE293",
+      "canonical_id": "general-293",
+      "official_number": 293,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Was ist in Deutschland ein Brauch zu Ostern?",
+      "options": {
+        "A": "Kürbisse vor die Tür stellen",
+        "B": "einen Tannenbaum schmücken",
+        "C": "Eier bemalen",
+        "D": "Raketen in die Luft schießen"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 109,
+      "bamf_internal_id": "18047",
+      "images": []
+    },
+    {
+      "id": "DE294",
+      "canonical_id": "general-294",
+      "official_number": 294,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Pfingsten ist ein ...",
+      "options": {
+        "A": "christlicher Feiertag.",
+        "B": "deutscher Gedenktag.",
+        "C": "internationaler Trauertag.",
+        "D": "bayerischer Brauch."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 109,
+      "bamf_internal_id": "18041",
+      "images": []
+    },
+    {
+      "id": "DE295",
+      "canonical_id": "general-295",
+      "official_number": 295,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+      "options": {
+        "A": "der Hinduismus",
+        "B": "das Christentum",
+        "C": "der Buddhismus",
+        "D": "der Islam"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 109,
+      "bamf_internal_id": "18066",
+      "images": []
+    },
+    {
+      "id": "DE296",
+      "canonical_id": "general-296",
+      "official_number": 296,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten ...",
+      "options": {
+        "A": "den Buß- und Bettag.",
+        "B": "das Erntedankfest.",
+        "C": "die Adventszeit.",
+        "D": "Allerheiligen."
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 110,
+      "bamf_internal_id": "18055",
+      "images": []
+    },
+    {
+      "id": "DE297",
+      "canonical_id": "general-297",
+      "official_number": 297,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+      "options": {
+        "A": "Italien",
+        "B": "Polen",
+        "C": "Marokko",
+        "D": "Türkei"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 110,
+      "bamf_internal_id": "18076",
+      "images": []
+    },
+    {
+      "id": "DE298",
+      "canonical_id": "general-298",
+      "official_number": 298,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "In der DDR lebten vor allem Migrantinnen und Migranten aus ...",
+      "options": {
+        "A": "Vietnam, Polen, Mosambik.",
+        "B": "Frankreich, Rumänien, Somalia.",
+        "C": "Chile, Ungarn, Simbabwe.",
+        "D": "Nordkorea, Mexiko, Ägypten."
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 110,
+      "bamf_internal_id": "18069",
+      "images": []
+    },
+    {
+      "id": "DE299",
+      "canonical_id": "general-299",
+      "official_number": 299,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man ...",
+      "options": {
+        "A": "Schwarzarbeiterinnen/Schwarzarbeiter.",
+        "B": "Gastarbeiterinnen/Gastarbeiter.",
+        "C": "Zeitarbeiterinnen/Zeitarbeiter.",
+        "D": "Schichtarbeiterinnen/Schichtarbeiter."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 111,
+      "bamf_internal_id": "18082",
+      "images": []
+    },
+    {
+      "id": "DE300",
+      "canonical_id": "general-300",
+      "official_number": 300,
+      "scope": "general",
+      "state_code": null,
+      "question_de": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Italien",
+        "B": "Spanien",
+        "C": "Portugal",
+        "D": "Türkei"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 111,
+      "bamf_internal_id": "18077",
+      "images": []
+    },
+    {
+      "id": "BW01",
+      "canonical_id": "BW-01",
+      "official_number": 1,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Welches Wappen gehört zum Bundesland Baden-Württemberg?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "official_pdf_page": 112,
+      "bamf_internal_id": "17877",
+      "images": [
+        {
+          "path": "images/BW-01.png",
+          "sha256": "97f9b7bc5947f0f8a0557fab388956cb71cd818f55e30d2a3f654f007ffc942b",
+          "width": 376,
+          "height": 525,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/BW-01-2.png",
+          "sha256": "b38fd5f497ae2dc5e04b085a3c1e778e0b50d88c689a38ce0c82084496797b4a",
+          "width": 425,
+          "height": 495,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/BW-01-3.png",
+          "sha256": "5856a7b4efbc2dd8af172f48abb93a47c7dc345be2e94908cc25f3856e7cd099",
+          "width": 424,
+          "height": 513,
+          "mime_type": "image/png"
+        },
+        {
+          "path": "images/BW-01-4.png",
+          "sha256": "f8fe2503a8dac75866854d356e59adefaba9755aa77b86ccc99a08f499774dd8",
+          "width": 375,
+          "height": 525,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "BW02",
+      "canonical_id": "BW-02",
+      "official_number": 2,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Welches ist ein Landkreis in Baden-Württemberg?",
+      "options": {
+        "A": "Mecklenburgische Seenplatte",
+        "B": "Neckar-Odenwald-Kreis",
+        "C": "Nordfriesland",
+        "D": "Altötting"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 112,
+      "bamf_internal_id": "17930",
+      "images": []
+    },
+    {
+      "id": "BW03",
+      "canonical_id": "BW-03",
+      "official_number": 3,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 113,
+      "bamf_internal_id": "17883",
+      "images": []
+    },
+    {
+      "id": "BW04",
+      "canonical_id": "BW-04",
+      "official_number": 4,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "20"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 113,
+      "bamf_internal_id": "17958",
+      "images": []
+    },
+    {
+      "id": "BW05",
+      "canonical_id": "BW-05",
+      "official_number": 5,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
+      "options": {
+        "A": "blau-weiß-rot",
+        "B": "schwarz-gold",
+        "C": "weiß-blau",
+        "D": "grün-weiß-rot"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 113,
+      "bamf_internal_id": "17938",
+      "images": []
+    },
+    {
+      "id": "BW06",
+      "canonical_id": "BW-06",
+      "official_number": 6,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
+      "options": {
+        "A": "beim Ordnungsamt der Gemeinde",
+        "B": "bei der Verbraucherzentrale",
+        "C": "bei der Landeszentrale für politische Bildung",
+        "D": "bei den Kirchen"
+      },
+      "correct_answer": "C",
+      "official_pdf_page": 114,
+      "bamf_internal_id": "17763",
+      "images": []
+    },
+    {
+      "id": "BW07",
+      "canonical_id": "BW-07",
+      "official_number": 7,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Die Landeshauptstadt von Baden-Württemberg heißt ...",
+      "options": {
+        "A": "Heidelberg.",
+        "B": "Stuttgart.",
+        "C": "Karlsruhe.",
+        "D": "Mannheim."
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 114,
+      "bamf_internal_id": "17646",
+      "images": []
+    },
+    {
+      "id": "BW08",
+      "canonical_id": "BW-08",
+      "official_number": 8,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Welches Bundesland ist Baden-Württemberg?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "official_pdf_page": 115,
+      "bamf_internal_id": "17522",
+      "images": [
+        {
+          "path": "images/BW-08.png",
+          "sha256": "75df8a7a5f5a70bcf0a094227510b4e2c0ddaf3c04f2454e78c77f146483c38c",
+          "width": 794,
+          "height": 682,
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "BW09",
+      "canonical_id": "BW-09",
+      "official_number": 9,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?",
+      "options": {
+        "A": "Erste Ministerin/Erster Minister",
+        "B": "Premierministerin/Premierminister",
+        "C": "Bürgermeisterin/Bürgermeister",
+        "D": "Ministerpräsidentin/Ministerpräsident"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 116,
+      "bamf_internal_id": "17612",
+      "images": []
+    },
+    {
+      "id": "BW10",
+      "canonical_id": "BW-10",
+      "official_number": 10,
+      "scope": "state",
+      "state_code": "BW",
+      "question_de": "Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?",
+      "options": {
+        "A": "Finanzministerin/Finanzminister",
+        "B": "Justizministerin/Justizminister",
+        "C": "Innenministerin/Innenminister",
+        "D": "Außenministerin/Außenminister"
+      },
+      "correct_answer": "D",
+      "official_pdf_page": 116,
+      "bamf_internal_id": "18792",
+      "images": []
+    }
+  ]
+}
